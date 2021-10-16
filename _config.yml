@@ -36,8 +36,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://bit.ly/dfua-c4p"	#call for papers google form
+c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"	#sponsor pdf
 
 
 # Navigation
@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Workshops"}
  - {permalink: "/hackathon/", text: "CTF"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker - bottom link"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker - right link"}
 
 # Hero Block
 heroImage: "hero.jpg"
