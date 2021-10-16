@@ -10,26 +10,26 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "BSides Cairo 2021"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "BSides Cairo"
+email: "bsidescairo@gmail.com"
+description: "Bsides Cairo is an information security conference which will host information security professionals, security researchers, academics, undergrads, graduate students, corporations and any person who wants to share knowledge and learn from others."
 baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+url: "https://cyber-anubis.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "BSides Cairo"
+organizerAlternateName: "BSides Cairo"
+organizerDescription: "Bsides Cairo is an information security conference which will host information security professionals, security researchers, academics, undergrads, graduate students, corporations and any person who wants to share knowledge and learn from others."
+organizerEmail: "bsidescairo@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "https://cyber-anubis.github.io/zeppelin/"
 
 # Head
-metaKeywords: "event, bsides, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, bsides, cairo, cybersecurity, programming, blueteam, developers, "
 twitterAccount: "@BSidesCairo"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
