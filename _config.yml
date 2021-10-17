@@ -122,7 +122,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Become a sponsor - Main Link"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -137,46 +137,46 @@ ticketsOffers:
  -
   name: "Early Bird"
   price: "350"
-  priceCurrency: "UAH"
+  priceCurrency: "EGO"
   ticketsNumber: "150"
   ribbon: "-5%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  validFrom: "2021-04-25T10:00"
+  validThrough: "2021-06-30T23:59"
  -
   name: "Last Chance"
   price: "450"
-  priceCurrency: "UAH"
+  priceCurrency: "EGP"
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  validFrom: "2021-04-01T00:00"
+  validThrough: "2021-06-23T23:59"
   disabled: true
  -
   name: "Student"
   price: "200"
-  priceCurrency: "UAH"
+  priceCurrency: "EGP"
   ticketsNumber: "50"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
+  validFrom: "2021-04-20T10:00"
+  validThrough: "2021-06-23T23:59"
   soldOut: true
   soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/BSidesCairo", icon: "twitter"}
+ - {link: "facebook.com/BSCairo", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
