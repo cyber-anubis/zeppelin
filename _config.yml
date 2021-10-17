@@ -57,7 +57,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "BSides <typeout> 2021"
-eventDate: "September - November, 2014"
+eventDate: "June, 2021"
 typeoutTextValues: '"", "Cairo"'
 typeoutFallback: "TEST"
 heroButtons:
