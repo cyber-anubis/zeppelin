@@ -65,19 +65,19 @@ heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets - Main link"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About BSides Cairo"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Conference", image: "conference.jpg", text: "Bsides Cairo is an information security conference which will host information security professionals, security researchers, academics, undergrads, graduate students, corporations and any person who wants to share knowledge and learn from others." }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "CTF", image: "hackathon.jpg", text: "Full-day CTF! Grab your team and join our competetion!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "500", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure technical cyber security"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from allover the world"}
+ - {count: "2", specialCharacter: "", info: "Editions", detail: "Sharing knowledge since 2019"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
