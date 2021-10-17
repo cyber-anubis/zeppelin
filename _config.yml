@@ -91,7 +91,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Conference Hall"
-eventLocationLink: "<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3453.751082837009!2d31.236652715115028!3d30.043998281882477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145840c792ff5ed5%3A0x27392189a2c25351!2sThe%20GrEEK%20Campus!5e0!3m2!1sen!2seg!4v1634429906727!5m2!1sen!2seg" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>"
+eventLocationLink: "https://thegreekcampus.com/"
 eventStreetAddress: "The GrEEK Campus"
 eventAddressLocality: "Cairo"
 eventAddressLocalityRegion: "Cairo"
