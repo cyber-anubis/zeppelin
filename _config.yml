@@ -52,17 +52,17 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker - bottom link"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker - right link"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker - right link"}	#is not found yet
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
+heroTitle: "BSides <typeout> 2021"
 eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+typeoutTextValues: '"", "Cairo"'
+typeoutFallback: "TEST"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker - Main link"}
+ - {permalink: "/#tickets", text: "Buy tickets - Main link"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
