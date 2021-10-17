@@ -84,25 +84,25 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 10
+rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
+eventLocationLink: "<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3453.751082837009!2d31.236652715115028!3d30.043998281882477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145840c792ff5ed5%3A0x27392189a2c25351!2sThe%20GrEEK%20Campus!5e0!3m2!1sen!2seg!4v1634429906727!5m2!1sen!2seg" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>"
+eventStreetAddress: "The GrEEK Campus"
+eventAddressLocality: "Cairo"
+eventAddressLocalityRegion: "Cairo"
 eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+eventAddressCountry: "Egypt"
+eventStartTime: "2021-10-25T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "2021-10-25T20:00"
+eventPlaceCoordinates: "30.044156166234803, 31.23902378770914"
+mapCenterCoordinates: "30.044156166234803, 31.23902378770914"
+mapMobileCenterCoordinates: "30.044156166234803, 31.23902378770914"
 
 # Venue Block
 venueBlockTitle: "Venue"
