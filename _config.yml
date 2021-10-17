@@ -55,7 +55,7 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker - right link"}	#is not found yet
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero.jpeg"
 heroTitle: "BSides <typeout> 2021"
 eventDate: "June, 2021"
 typeoutTextValues: '"", "Cairo"'
