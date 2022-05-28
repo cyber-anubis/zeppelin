@@ -7,13 +7,13 @@
   bio: "Senior Information Security Engineer at GoTo ( GoJek + Tokopedia Merger ) , 
 an Indonesian decacorn super app. I teach CyberSecurity @HackingSimplified and blog about some of my security findings on my website,
  aseemshrey.in . Acknowledged for securing the government of India’s Digilocker, various MNC’s like Sony, IBM, GM and many Indian companies and startups. All India 1st in Nullcon CTF 2018 . Interested in web app exploitation especially logical bugs and reverse engineering. CTF player with NULLKrypt3rs"
-  thumbnailUrl: Nidal2.jpg
+  thumbnailUrl: Aseem Shrey-03.jpg
   rockstar: true
   ribbon: 
-    - {abbr: "NEW", title: "2022 Conference Speaker"}
-  social: 
-    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
-    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+    - {abbr: "NEW", title: "2022 Conference Speaker!"}
+  #social: 
+    #- {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    #- {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
   id: 1
   name: "Jeany"
@@ -25,40 +25,44 @@ an Indonesian decacorn super app. I teach CyberSecurity @HackingSimplified and b
 corporate events and conferences educating audiences about social engineering and security.
 Jenny is the founder of HumanFactorSecurity.co.uk a consultancy helping clients
  prepare and defend against malicious social engineering and related attacks."
-  thumbnailUrl: Nidal2.jpg
+  thumbnailUrl: Jeany-02.jpg
   rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
-    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+  ribbon: 
+    - {abbr: "NEW", title: "2022 Conference Speaker!"}
+  #social: 
+    #- {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    #- {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
   id: 2
   name: "Marudhamaran"
   surname: "Gunasekaran"
-  company: "Hatching Triage"
-  title: "Malware Analyst"
+  company: "Practical DevSecOps"
+  title: "Security Consultant"
   bio: "Marudhamaran Gunasekaran is a Security Consultant at Practical DevSecOps with strong passion for securing software development through training and consulting.  
 He enjoys working with Engineering and Operations teams to seamlessly imbibe the security mindset even before a single line of code is written.
  He is the developer and maintainer of the OWASP ZAP Dot Net API and you would find him speaking at various meet up groups and conferences on topics related to Agile Software Development and Security. Some of his certifications include Azure Certified Security Engineer, 
 Microsoft Certified Trainer, ISO 27001 Lead Auditor, Professional Scrum Master I, II, and III, Certified DevSecOps Professional.
  His specialties are DevSecOps, Agile Coaching, Scrum, Microsoft Stack, threat modelling, and Auditing. He is a part of TUDelft Universities'
  MOOC courseware for Global software engineering, and an author at Pluralsight."
-  thumbnailUrl: Nidal2.jpg
+  thumbnailUrl: Marudhamaran Gunasekaran-05.jpeg
   rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
-    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+  #social: 
+    #- {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    #- {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
   id: 3
   name: "Rodolpho"
   surname: "Concurde"
-  company: "Hatching Triage"
-  title: "Malware Analyst"
+  company: "TEst"
+  title: "Test"
   bio: "Brazilian, certified C|EH, having begun his studies about Information Security 13 years ago, and passed 11 years has realized projects of Application/Infrastructure Penetration Test, Security Analysis, Code Review and Hardening for industries such as: Telecommunications, Aviation,
  Financial Institutions, Information Technology and Mining. In his free time like of research and practice news techniques of Attack and something of Reverse Engineering. Speaker at many conferences as: Hack In The Box, Ekoparty, Arab Security Conference, Red Team Village, Stackconf,
  MorterueloCON, BSides Calgary, BSides Newcastle, BSides Athens, etc... Author: From SEH Overwrite to get a shell –
  Pentest Magazine Covert Channel Technique Explained - Pentest Magazine From Fuzzing to Get a Shell – Pentest Magazine Stack Overflow - Hakin9 Magazine"
-  thumbnailUrl: Nidal2.jpg
+  thumbnailUrl: Rodolpho Concurde-06.PNG
   rockstar: true
+  ribbon: 
+    - {abbr: "NEW", title: "2022 Conference Speaker!"}
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/rodolphoconcurde/"}
 - 
@@ -71,8 +75,10 @@ Microsoft Certified Trainer, ISO 27001 Lead Auditor, Professional Scrum Master I
  and acknowledged from Google, Cisco, IBM, Spotify, IKEA, and more. 
   Author of the following 0day vulnerabilities CVE-2021-34785, CVE-2021-34786, CVE-2021-45797, CVE-2021-45798, CVE-2021-45799, CVE-2021-45800 ,CVE-2021-45801 
 Interested in Application and network penetration testing.  Technical blogger, trying to spread my knowledge. "
-  thumbnailUrl: Nidal2.jpg
+  thumbnailUrl: EslamAkl-02.jpeg
   rockstar: true
+  ribbon: 
+    - {abbr: "NEW", title: "2022 Conference Speaker!"}
   social: 
     - {name: "twitter", link: "https://twitter.com/eslam3kll"}
 - 
@@ -84,9 +90,11 @@ Interested in Application and network penetration testing.  Technical blogger, t
   bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
   thumbnailUrl: Nidal2.jpg
   rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
-    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+  ribbon: 
+    - {abbr: "NEW", title: "2022 Conference Speaker!"}
+  #social: 
+    #- {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    #- {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
   id: 6
   name: "Abdelrahman"
@@ -97,9 +105,11 @@ Interested in Application and network penetration testing.  Technical blogger, t
 novel algorithms for problems in the field."
   thumbnailUrl: Nidal2.jpg
   rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
-    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+  ribbon: 
+    - {abbr: "NEW", title: "2022 Conference Speaker!"}
+  #social: 
+    #- {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    #- {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
   id: 7
   name: "Mohamed"
@@ -109,15 +119,17 @@ novel algorithms for problems in the field."
   bio: "Interested in Malware stuff and R&D for Cybersecurity."
   thumbnailUrl: Nidal2.jpg
   rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
-    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+  ribbon: 
+    - {abbr: "NEW", title: "2022 Conference Speaker!"}
+  #social: 
+    #- {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    #- {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
   id: 8
   name: "Maretta"
   surname: "Morovitz"
-  company: "Hatching Triage"
-  title: "Malware Analyst"
+  company: "test"
+  title: "test"
   bio: "Maretta Morovitz is the MITRE Engage Lead, 
 working in the areas of adversary engagement, malware analysis, and reverse engineering. 
 She holds a BS degree in CS from the Tufts University School of Engineering.
@@ -126,34 +138,57 @@ still anxiously awaiting her letter from Hogwarts, or snuggling with her dog and
 "
   thumbnailUrl: Nidal2.jpg
   rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
-    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+  ribbon: 
+    - {abbr: "NEW", title: "2022 Conference Speaker!"}
+  #social: 
+    #- {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    #- {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
   id: 9
   name: "Adam"
   surname: "Pennington"
-  company: "Hatching Triage"
-  title: "Malware Analyst"
+  company: "test"
+  title: "test"
   bio: "Adam Pennington leads ATT&CK at The MITRE Corporation and collected much of the intelligence leveraged in creating ATT&CK’s initial techniques. He has spent much of his 13 years with MITRE studying and preaching the use of deception for intelligence gathering.
 Prior to joining MITRE, Adam was a researcher at Carnegie Mellon’s Parallel Data Lab and earned his BS and MS degrees in Computer Science and Electrical and Computer Engineering as well as the 2017 Alumni Service Award from Carnegie Mellon University. Adam has presented and published in a number of venues including FIRST CTI, USENIX Security, DEF CON, and ACM Transactions on Information and System Security."
   thumbnailUrl: Nidal2.jpg
   rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
-    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+  ribbon: 
+    - {abbr: "NEW", title: "2022 Conference Speaker!"}
+  #social: 
+    #- {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    #- {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
   id: 10
-  name: "Test"
-  surname: "Test"
+  name: "Sherif"
+  surname: "El Deeb"
+  company: "Microsoft"
+  title: "test"
+  bio: "In a previous life, I used to work for law enforcement, public safety and national cybersecurity agencies on SOC operations, IR, CTI and chasing threat actors across government networks, in addition to securing major sports events.
+Now being part of Microsoft, I am responsible for leading the strategy and engagement with the relevant national cybersecurity, CERT, CI and Intelligence agencies in my region, articulate Microsoft’s holistic security vision, strategy, and value proposition at customer and national level, and mapping existing industry requirements to Microsoft’s compliance capabilities."
+  thumbnailUrl: sherif_eldeep.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "NEW", title: "2022 Conference Speaker!"}
+  #social: 
+    #- {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    #- {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+- 
+  id: 26
+  name: "Hossam"
+  surname: "El Moshrify"
   company: "Hatching Triage"
   title: "Malware Analyst"
-  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
-  thumbnailUrl: Nidal2.jpg
+  bio: "I have built a track record over a 18-year career of delivering outstanding results and operations efficiency.
+In my current position as Head of Airports Operations for SITA, a leading international IT provider for the air transport industry , delivering solutions for airlines, airports, aircraft, and governments. I am managing +100 team members responsible for the 247 operations of passengers and Airport management systems in Saudi Arabia & Kuwait covering more than 25 airports.
+Strongly skilled and dedicated ITIL Expert with a superior work ethic and client satisfaction record. Expert in leading collaborative initiatives with cross-functional and virtual teams using a customer centric approach to meet customer business requirements."
+  thumbnailUrl: Hossam_ELmoshrify_2022.jpg
   rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
-    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+  ribbon: 
+    - {abbr: "NEW", title: "2022 Conference Speaker!"}
+  #social: 
+    #- {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    #- {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
   id: 11
   name: "Allan"
