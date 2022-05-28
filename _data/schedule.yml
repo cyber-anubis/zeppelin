@@ -62,12 +62,12 @@
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [21]
+    	sessionIds: [021]
     }
     - {
     	startTime: "10:45",
     	endTime: "11:30",
-    	sessionIds: [22]
+    	sessionIds: [022]
     }
     - {
         startTime: "11:30",
@@ -77,7 +77,7 @@
     - {
     	startTime: "12:00",
     	endTime: "12:15",
-    	sessionIds: [30]
+    	sessionIds: [030]
     }
     - {
     	startTime: "12:15",
