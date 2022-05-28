@@ -44,11 +44,11 @@ c4sponsorsUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdWS-J6viFUrOrEmiblQ7t2
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "News"}
- #- {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers Archive"}
  - {permalink: "/team/", text: "Team"}
- #- {permalink: "/logistics/", text: "workshops"}
- #- {permalink: "/hackathon/", text: "CTF"}
+ - {permalink: "/logistics/", text: "workshops"}
+ - {permalink: "/hackathon/", text: "CTF"}
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfJ6eyQrZJvRxXRdpYjTdckf9hY-wKVzLwEoAswxNbI1pCUFg/viewform", text: "Become a speaker"}
 rightNavigationButtons:
