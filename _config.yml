@@ -86,7 +86,7 @@ latestNewsTitle: "Latest news"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 10
 rockstarSpeakersTitle: "2022 New Speakers"
-rockstarSpeakersButtonText: "Show all previous speakers!"
+rockstarSpeakersButtonText: "Show all speakers!"
 
 # Location Block
 locationBlockTitle: "Location"
