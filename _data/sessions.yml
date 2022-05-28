@@ -4,7 +4,7 @@
   description: "In 2017 Egypt was one of the top countries affected by the WannaCry Ransomware, and, unfortunately, things have not gotten better. According to Trend Micro, Egypt accounts for more than a third of all ransomware attacks in North Africa. Egypt is an attractive target for ransomware cybercriminals because there are so many new business starting up, but they have limited budget for security.
 This talk will review the ransomware threats, and discuss ways you can help defend your organization from ransomware, even on a tight budget. It will also provide an overview of resources you can use to better understand the threat and where to focus your limited security budget."
   subtype: KEYNOTE
-  speakers: [3]
+  speakers: [11]
   language: en
   #complexity: "Intermediate"
   video: "//www.youtube.com/embed/N8T1fCh6VgY"
@@ -14,7 +14,7 @@ This talk will review the ransomware threats, and discuss ways you can help defe
   description: "The plague of computer security for the last 40 years has been the buffer overflow.This common vulnerability has given rise to a flood of different worms and exploits.
 In this session we will explore the journey of vulnerability research.Catching crashes with fuzzing, then exploring the interesting topic of brute-forcing and symbolic execution while defeating malwares like hidden logic bombs and nasty IDA graphs."
   #subtype: presentation
-  speakers: [4]
+  speakers: [12]
   language: ar
   #complexity: "Beginner" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -25,7 +25,7 @@ In this session we will explore the journey of vulnerability research.Catching c
   description: "This talk is about insecurity of POS and fraud that can you be on. From the classic skimmer, eavesdropping, modification, and installation of third-party software to hardware tampering POS.
 Talk also covers POS security features, main brands, cybercrime, methodology to POS tamper, impacted models, security countermeasures, PCI DSS, EMV, insecurity of EMV and NFC."
   #subtype: presentation
-  speakers: [5]
+  speakers: [13]
   language: en
   complexity: "Confidential" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -34,7 +34,7 @@ Talk also covers POS security features, main brands, cybercrime, methodology to 
   title: "Dive into the serverless security"
   description: "Modern web applications is switching to serverless functions because its simple and cost effective. But serverless functions has its own concerns and vulnerabilities. We will dive into vulnerabilities and attacks and we will review the best practice to deploy serverless functions,specially Aws Lambda function from the offensive and defensive sides."
   #subtype: keynote
-  speakers: [6]
+  speakers: [14]
   language: ar
   #complexity: "Beginner"
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
@@ -49,7 +49,7 @@ It is highly accurate and can provide deep insight into enterprise network to de
 talk will be an overview of deception technology will be presented in this talk and we will learn how to plan, build and deploy a basic deception framework using free and open source tools.
 "
   #subtype: keynote
-  speakers: [7]
+  speakers: [15]
   language: en, ar
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -60,7 +60,7 @@ talk will be an overview of deception technology will be presented in this talk 
   description: "The ability to block advanced threats improves each year, but we face adversaries who are determined and creative, and their techniques evolve just as quickly. This raises a few questions: When prevention fails, what do we have left to protect our organizations? How can we discover gaps as fast as possible? Having techniques in play to detect and respond to ongoing attacks quickly is as important as prevention.
 Threat hunting is a critical discipline that more organizations are using to disrupt stealthy attacks before they become mega breaches. It is the active search for “unknown unknowns,” which describes new and novel attack behaviors that aren’t detected by current automated methods of prevention and detection. It is, by nature, a “hands-on-keyboard activity,” driven by humans. Just like hunting in nature, anyone can do it, but the right experience and tools can make you much more effective."
   #subtype: keynote
-  speakers: [8]
+  speakers: [16]
   language: ar
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -71,7 +71,7 @@ Threat hunting is a critical discipline that more organizations are using to dis
   description: "AI is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, and self-correction. Integrating it with cyber security is beneficial because it improves how security experts analyze, study, and understand cyber-crime.
 In this talk, we will discuss & explain AI and how to integrate it with cyber security to detect many types of attacks. The talk will cover many applications in cyber security in which we can apply AI to improve those applications. Finally, we will present a demo on how to build your development environment with some scripting examples."
   #subtype: keynote
-  speakers: [9]
+  speakers: [17]
   language: ar
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -80,7 +80,7 @@ In this talk, we will discuss & explain AI and how to integrate it with cyber se
   id: 008
   title: "Detection at Scale"
   #subtype: keynote
-  speakers: [10,11]
+  speakers: [18,19]
   language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -89,7 +89,7 @@ In this talk, we will discuss & explain AI and how to integrate it with cyber se
   id: 009
   title: "Selected Short Stories on Supply Chain Attacks"
   #subtype: keynote
-  speakers: [11]
+  speakers: [19]
   language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -98,7 +98,7 @@ In this talk, we will discuss & explain AI and how to integrate it with cyber se
   id: 010
   title: "Mitigating New Entry Points To The Jewels"
   #subtype: keynote
-  speakers: [12]
+  speakers: [20]
   language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -107,7 +107,7 @@ In this talk, we will discuss & explain AI and how to integrate it with cyber se
   id: 011
   title: "MTechniques Of The Social Engineering Pirate Queen"
   #subtype: keynote
-  speakers: [13]
+  speakers: [21]
   language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -117,7 +117,7 @@ In this talk, we will discuss & explain AI and how to integrate it with cyber se
   id: 013
   title: "Catch Me If You Can: The Art Of CTF"
   #subtype: keynote
-  speakers: [16]
+  speakers: [24]
   language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -126,7 +126,7 @@ In this talk, we will discuss & explain AI and how to integrate it with cyber se
   id: 014
   title: "Insight Into TTPs Of A Middle Eastern Threat Actor"
   #subtype: keynote
-  speakers: [14,15]
+  speakers: [22,23]
   language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -135,7 +135,7 @@ In this talk, we will discuss & explain AI and how to integrate it with cyber se
   id: 015
   title: "Hacking Just By Browsing"
   #subtype: keynote
-  speakers: [17]
+  speakers: [25]
   language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
