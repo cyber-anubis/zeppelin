@@ -7,7 +7,7 @@
   bio: "Senior Information Security Engineer at GoTo ( GoJek + Tokopedia Merger ) , 
 an Indonesian decacorn super app. I teach CyberSecurity @HackingSimplified and blog about some of my security findings on my website,
  aseemshrey.in . Acknowledged for securing the government of India’s Digilocker, various MNC’s like Sony, IBM, GM and many Indian companies and startups. All India 1st in Nullcon CTF 2018 . Interested in web app exploitation especially logical bugs and reverse engineering. CTF player with NULLKrypt3rs"
-  thumbnailUrl: Aseem Shrey-03.jpg
+  thumbnailUrl: AseemShrey-03.jpg
   rockstar: true
   ribbon: 
     - {abbr: "NEW", title: "2022 Conference Speaker!"}
@@ -44,7 +44,7 @@ He enjoys working with Engineering and Operations teams to seamlessly imbibe the
 Microsoft Certified Trainer, ISO 27001 Lead Auditor, Professional Scrum Master I, II, and III, Certified DevSecOps Professional.
  His specialties are DevSecOps, Agile Coaching, Scrum, Microsoft Stack, threat modelling, and Auditing. He is a part of TUDelft Universities'
  MOOC courseware for Global software engineering, and an author at Pluralsight."
-  thumbnailUrl: Marudhamaran Gunasekaran-05.jpeg
+  thumbnailUrl: MarudhamaranGunasekaran-05.jpeg
   rockstar: true
   #social: 
     #- {name: "twitter", link: "https://twitter.com/cyber_anubis"}
@@ -136,7 +136,7 @@ She holds a BS degree in CS from the Tufts University School of Engineering.
  Outside of work you can find her nerding out about the latest Brandon Sanderson novel, 
 still anxiously awaiting her letter from Hogwarts, or snuggling with her dog and hedgehog. 
 "
-  thumbnailUrl: Nidal2.jpg
+  thumbnailUrl: MarettaMorovitz-MITRE.jpeg
   rockstar: true
   ribbon: 
     - {abbr: "NEW", title: "2022 Conference Speaker!"}
@@ -151,7 +151,7 @@ still anxiously awaiting her letter from Hogwarts, or snuggling with her dog and
   title: "test"
   bio: "Adam Pennington leads ATT&CK at The MITRE Corporation and collected much of the intelligence leveraged in creating ATT&CK’s initial techniques. He has spent much of his 13 years with MITRE studying and preaching the use of deception for intelligence gathering.
 Prior to joining MITRE, Adam was a researcher at Carnegie Mellon’s Parallel Data Lab and earned his BS and MS degrees in Computer Science and Electrical and Computer Engineering as well as the 2017 Alumni Service Award from Carnegie Mellon University. Adam has presented and published in a number of venues including FIRST CTI, USENIX Security, DEF CON, and ACM Transactions on Information and System Security."
-  thumbnailUrl: Nidal2.jpg
+  thumbnailUrl: AdamPennington-MITRE.png
   rockstar: true
   ribbon: 
     - {abbr: "NEW", title: "2022 Conference Speaker!"}
