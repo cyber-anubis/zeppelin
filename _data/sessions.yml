@@ -272,6 +272,15 @@ Egg Hunter to Get a Shell"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
 -
+  id: 030
+  title: "Conference Sponsor - Tines"
+  #subtype: keynote
+  speakers: [31]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
   id: 307
   title: "Break"
   #place: "Hall"
