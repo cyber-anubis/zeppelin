@@ -9,6 +9,8 @@ an Indonesian decacorn super app. I teach CyberSecurity @HackingSimplified and b
  aseemshrey.in . Acknowledged for securing the government of India’s Digilocker, various MNC’s like Sony, IBM, GM and many Indian companies and startups. All India 1st in Nullcon CTF 2018 . Interested in web app exploitation especially logical bugs and reverse engineering. CTF player with NULLKrypt3rs"
   thumbnailUrl: Nidal2.jpg
   rockstar: true
+  ribbon: 
+    - {abbr: "NEW", title: "2022 Conference Speaker"}
   social: 
     - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
     - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
@@ -30,11 +32,16 @@ Jenny is the founder of HumanFactorSecurity.co.uk a consultancy helping clients
     - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
   id: 2
-  name: "Nidal"
-  surname: "Fikri"
+  name: "Marudhamaran"
+  surname: "Gunasekaran"
   company: "Hatching Triage"
   title: "Malware Analyst"
-  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  bio: "Marudhamaran Gunasekaran is a Security Consultant at Practical DevSecOps with strong passion for securing software development through training and consulting.  
+He enjoys working with Engineering and Operations teams to seamlessly imbibe the security mindset even before a single line of code is written.
+ He is the developer and maintainer of the OWASP ZAP Dot Net API and you would find him speaking at various meet up groups and conferences on topics related to Agile Software Development and Security. Some of his certifications include Azure Certified Security Engineer, 
+Microsoft Certified Trainer, ISO 27001 Lead Auditor, Professional Scrum Master I, II, and III, Certified DevSecOps Professional.
+ His specialties are DevSecOps, Agile Coaching, Scrum, Microsoft Stack, threat modelling, and Auditing. He is a part of TUDelft Universities'
+ MOOC courseware for Global software engineering, and an author at Pluralsight."
   thumbnailUrl: Nidal2.jpg
   rockstar: true
   social: 
@@ -42,34 +49,38 @@ Jenny is the founder of HumanFactorSecurity.co.uk a consultancy helping clients
     - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
   id: 3
-  name: "Nidal"
-  surname: "Fikri"
+  name: "Rodolpho"
+  surname: "Concurde"
   company: "Hatching Triage"
   title: "Malware Analyst"
-  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  bio: "Brazilian, certified C|EH, having begun his studies about Information Security 13 years ago, and passed 11 years has realized projects of Application/Infrastructure Penetration Test, Security Analysis, Code Review and Hardening for industries such as: Telecommunications, Aviation,
+ Financial Institutions, Information Technology and Mining. In his free time like of research and practice news techniques of Attack and something of Reverse Engineering. Speaker at many conferences as: Hack In The Box, Ekoparty, Arab Security Conference, Red Team Village, Stackconf,
+ MorterueloCON, BSides Calgary, BSides Newcastle, BSides Athens, etc... Author: From SEH Overwrite to get a shell –
+ Pentest Magazine Covert Channel Technique Explained - Pentest Magazine From Fuzzing to Get a Shell – Pentest Magazine Stack Overflow - Hakin9 Magazine"
   thumbnailUrl: Nidal2.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
-    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rodolphoconcurde/"}
 - 
   id: 4
-  name: "Nidal"
-  surname: "Fikri"
-  company: "Hatching Triage"
-  title: "Malware Analyst"
-  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  name: "Islam"
+  surname: "Akl"
+  company: "Security Meter"
+  title: "Information Security Engineer"
+  bio: "Information Security Engineer at Security Meter. Bug bounty hunter
+ and acknowledged from Google, Cisco, IBM, Spotify, IKEA, and more. 
+  Author of the following 0day vulnerabilities CVE-2021-34785, CVE-2021-34786, CVE-2021-45797, CVE-2021-45798, CVE-2021-45799, CVE-2021-45800 ,CVE-2021-45801 
+Interested in Application and network penetration testing.  Technical blogger, trying to spread my knowledge. "
   thumbnailUrl: Nidal2.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
-    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+    - {name: "twitter", link: "https://twitter.com/eslam3kll"}
 - 
   id: 5
-  name: "Nidal"
-  surname: "Fikri"
-  company: "Hatching Triage"
-  title: "Malware Analyst"
+  name: "Ahmed"
+  surname: "Shosha"
+  company: "Microsoft"
+  title: "Security Reseacher"
   bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
   thumbnailUrl: Nidal2.jpg
   rockstar: true
@@ -78,11 +89,12 @@ Jenny is the founder of HumanFactorSecurity.co.uk a consultancy helping clients
     - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
   id: 6
-  name: "Nidal"
-  surname: "Fikri"
+  name: "Abdelrahman"
+  surname: "Khater"
   company: "Hatching Triage"
-  title: "Malware Analyst"
-  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  title: "Cyber Security Engineer"
+  bio: "Cybersecurity Engineer interested in cybersecurity R&D to introduce 
+novel algorithms for problems in the field."
   thumbnailUrl: Nidal2.jpg
   rockstar: true
   social: 
@@ -90,11 +102,11 @@ Jenny is the founder of HumanFactorSecurity.co.uk a consultancy helping clients
     - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
   id: 7
-  name: "Nidal"
-  surname: "Fikri"
-  company: "Hatching Triage"
-  title: "Malware Analyst"
-  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  name: "Mohamed"
+  surname: "Mousa"
+  company: "EG-CERT"
+  title: "Malware Analyst - R&D"
+  bio: "Interested in Malware stuff and R&D for Cybersecurity."
   thumbnailUrl: Nidal2.jpg
   rockstar: true
   social: 
@@ -102,11 +114,16 @@ Jenny is the founder of HumanFactorSecurity.co.uk a consultancy helping clients
     - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
   id: 8
-  name: "Nidal"
-  surname: "Fikri"
+  name: "Maretta"
+  surname: "Morovitz"
   company: "Hatching Triage"
   title: "Malware Analyst"
-  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  bio: "Maretta Morovitz is the MITRE Engage Lead, 
+working in the areas of adversary engagement, malware analysis, and reverse engineering. 
+She holds a BS degree in CS from the Tufts University School of Engineering.
+ Outside of work you can find her nerding out about the latest Brandon Sanderson novel, 
+still anxiously awaiting her letter from Hogwarts, or snuggling with her dog and hedgehog. 
+"
   thumbnailUrl: Nidal2.jpg
   rockstar: true
   social: 
@@ -114,11 +131,12 @@ Jenny is the founder of HumanFactorSecurity.co.uk a consultancy helping clients
     - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
   id: 9
-  name: "Nidal"
-  surname: "Fikri"
+  name: "Adam"
+  surname: "Pennington"
   company: "Hatching Triage"
   title: "Malware Analyst"
-  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  bio: "Adam Pennington leads ATT&CK at The MITRE Corporation and collected much of the intelligence leveraged in creating ATT&CK’s initial techniques. He has spent much of his 13 years with MITRE studying and preaching the use of deception for intelligence gathering.
+Prior to joining MITRE, Adam was a researcher at Carnegie Mellon’s Parallel Data Lab and earned his BS and MS degrees in Computer Science and Electrical and Computer Engineering as well as the 2017 Alumni Service Award from Carnegie Mellon University. Adam has presented and published in a number of venues including FIRST CTI, USENIX Security, DEF CON, and ACM Transactions on Information and System Security."
   thumbnailUrl: Nidal2.jpg
   rockstar: true
   social: 
@@ -126,8 +144,8 @@ Jenny is the founder of HumanFactorSecurity.co.uk a consultancy helping clients
     - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
   id: 10
-  name: "Nidal"
-  surname: "Fikri"
+  name: "Test"
+  surname: "Test"
   company: "Hatching Triage"
   title: "Malware Analyst"
   bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
@@ -144,7 +162,7 @@ Jenny is the founder of HumanFactorSecurity.co.uk a consultancy helping clients
   title: "Intelligence Analyst"
   bio: "Allan Liska is an intelligence analyst at Recorded Future. Allan has more than 15 years’ experience in information security and has worked as both a blue teamer and a red teamer for the intelligence community and the private sector. Allan has helped countless organizations improve their security posture using more effective and integrated intelligence. Allan is also one of the organizers of Bsides Bordeaux and has presented at security conferences around the world. He is the author of The Practice of Network Security, Building an Intelligence-Led Security Program, and Securing NTP: A Quickstart Guide and the co-author of DNS Security: Defending the Domain Name System and Ransomware: Defending Against Digital Extortion."
   thumbnailUrl: AllanLiska.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/uuallan"}
 - 
@@ -155,7 +173,7 @@ Jenny is the founder of HumanFactorSecurity.co.uk a consultancy helping clients
   title: "Malware Analyst"
   bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
   thumbnailUrl: Nidal2.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
     - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
@@ -167,7 +185,7 @@ Jenny is the founder of HumanFactorSecurity.co.uk a consultancy helping clients
   title: "Director of R&D LATAM"
   bio: "Fan of tech and cybersecurity, ISECOM OSSTMM instructor, trainer for security courses, speaker, researcher. Almost 10 years in the cybersecurity world. During recent years, he has specialized in payment systems EMV, NFC, POS, ATM. Currently, the director of R&D LATAM at Dreamlab Technologies."
   thumbnailUrl: JavierPerez.png
-  rockstar: true
+  rockstar: false
   #ribbon: 
     #- {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
    # - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
@@ -182,7 +200,7 @@ Jenny is the founder of HumanFactorSecurity.co.uk a consultancy helping clients
   title: "Application Security Engineer"
   bio: "Developer, security evangelist and CEO & founder of Shieldfy. 13+ years of experience in web development. Worked as a developer, team leader, security consultant at many companies in Egypt, Qatar, UAE and Canada. Founded Shieldfy, a security platform for developers."
   thumbnailUrl: EslamS.jpg
-  rockstar: true
+  rockstar: false
   #ribbon:
    # - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
@@ -196,7 +214,7 @@ Jenny is the founder of HumanFactorSecurity.co.uk a consultancy helping clients
   title: "CISO"
   bio: "Abdulrahman Al-Nimari is a self motivated renowned cyber security expert and a frequent conference speaker. Al-Nimari spend his time breaking, fixing, teaching, consulting and architecting security stuff. He has more than 25 years experience, with 15 of them in cyber security concentration. He played many roles in different IT and Cyber Security fields in both public and private sectors. His specialties and areas of interests include DFIR, Penetration Testing, Cyber Security consulting and Architecting. Awarded the Arab Cyber Security Social Networks Influencer for 2019."
   thumbnailUrl: abdo.jpg
-  rockstar: true
+  rockstar: false
   #ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
@@ -211,7 +229,7 @@ Jenny is the founder of HumanFactorSecurity.co.uk a consultancy helping clients
   title: "Information Security Manager"
   bio: "Mohamed Sadat is an Information Security Expert with over 10 years of experiences in financial and IT corporations. He started his career path as a red teamer engaged in many penetration test and security assessments. Then he decided to switch to blue team side continue his career path in incident handling, forensic investigation and threat hunting. His areas of experience also include risk assessment, Business constitute, Threat Modeling, designing and implementing secure infrastructure and Governance, risk and compliance (GRC)."
   thumbnailUrl: sadat.jpg
-  rockstar: true
+  rockstar: false
   #ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
@@ -227,7 +245,7 @@ Jenny is the founder of HumanFactorSecurity.co.uk a consultancy helping clients
   bio: "Mohammad Khreesha is a cybersecurity consultant from Jordan with 13+ years of experince. Mohammad deliver workshops, talks, and trainings on cybersecurity in Jordan, UAE, Egypt, Kosovo and other countries. His research interests in digital forensics, malware analysis, web & network security and their integration with AI.
 He acts as a leader for OWASP Amman chapter and he is the founder of JISCTF which is the first CTF in Jordan with more 150+ yearly participants. He has a YouTube channel in which he publishes training courses and tips in Cybersecurity field to feed the Arabic content on the internet."
   thumbnailUrl: Mohammad.jpg
-  rockstar: true
+  rockstar: false
   #ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
@@ -242,7 +260,7 @@ He acts as a leader for OWASP Amman chapter and he is the founder of JISCTF whic
   title: "Sr. Security Engineering Manager, Detection and Response"
   bio: "Kris Hunt is the manager of the Australian arm of the Google Detection & Response team. He has focused on the detection side of security for the past 15 years and today, his role is to lead teams of security engineers who innovate and evolve Alphabet's detection systems to match the ever increasing sophistication of attackers."
   thumbnailUrl: kris.jpeg
-  rockstar: true
+  rockstar: false
   #ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
@@ -257,7 +275,7 @@ He acts as a leader for OWASP Amman chapter and he is the founder of JISCTF whic
   title: "Security Engineer"
   bio: "Grace is a Security Engineer at Google working in Detection & Response. She is responsible for detection of malicious activity on Google’s networks and deep analysis of threats on their corporate, production, and acquisition environments. She works on engineering challenges that get Google closer to having fully automated detection and response systems. In her spare time she likes mentoring women in tech, playing video games, and painting watercolors."
   thumbnailUrl: grace.jpeg
-  rockstar: true
+  rockstar: false
   #ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
@@ -274,7 +292,7 @@ He acts as a leader for OWASP Amman chapter and he is the founder of JISCTF whic
 As a security researcher with the Global Research and Analysis Team at Kaspersky Lab, he was focused on vulnerability research and security assessment of emerging technologies. Based on his offensive expertise, he's been a founder and leading expert in the development of a threat intelligence product
 Having graduated from the Information Security Faculty of the National Research Nuclear University MEPhI (Moscow Engineering Physics Institute), he is continuing his research project related to methods of targeted attack detection as a Ph.D. candidate."
   thumbnailUrl: dennis.jpeg
-  rockstar: true
+  rockstar: false
   #ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
@@ -289,7 +307,7 @@ Having graduated from the Information Security Faculty of the National Research 
   title: "Security Consultant"
   bio: "Grace O’Malley is pirate queen from 16th century that breaks into buildings, exfiltrates sensitive data and gets to places where she shouldn’t be, manipulates people to comply with her demands…oh and Sharka is the nice one, she has been in IT for over 10 years and has rich experience in blue team environment having worked in and managed SOC that guards national British infrastructure in past. Currently she works as penetration tester for SureCloud where she tests everything from infrastructure, web apps to payment systems and specializes in social engineering. In her free time, she researches mainly around radio frequency technologies"
   thumbnailUrl: sharka.jpeg
-  rockstar: true
+  rockstar: false
   #ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
@@ -304,7 +322,7 @@ Having graduated from the Information Security Faculty of the National Research 
   title: "Senior Cyber Threat Researcher"
   bio: "Jaromir Horejsi is a threat researcher at Trend Micro. He specializes in hunting and reverse-engineering threats that target Windows and Linux. He has researched many types of threats over the course of his career, covering threats such as APTs, DDoS botnets, banking Trojans, click fraud and ransomware. He has successfully presented his research at RSAC, Virus Bulletin, FIRST, AVAR, Botconf and CARO."
   thumbnailUrl: jaro.jpeg
-  rockstar: true
+  rockstar: false
   #ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
@@ -319,7 +337,7 @@ Having graduated from the Information Security Faculty of the National Research 
   title: "Threat Researcher"
   bio: "Daniel Lunghi is a threat researcher at Trend Micro. He has been hunting malware and performing incident response investigation for years, sometimes in IT infrastructures involving thousands of hosts."
   thumbnailUrl: conf.jpg
-  rockstar: true
+  rockstar: false
   #ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
@@ -334,7 +352,7 @@ Having graduated from the Information Security Faculty of the National Research 
   title: "Information Security Specialist"
   bio: "Heidi is an Australian cyber ninja currently specialising in cyber security risk management, incident management and operations. She has worked in IT project management, system administration, telecommunications and compliance, before making the switch to cyber security, where she has the opportunity to experience both government and enterprise environments. She has a strong interest in offensive and deceptive security projects and has recently been delving into malware analysis and cyber threat intel. While also being a self-declared perpetual n00b, Heidi spends her time giving back to the community by volunteering at conferences across the globe, organizing meet ups and CTFs, and running popular community projects to educate young and old on the joys of the InfoSec."
   thumbnailUrl: winter.jpeg
-  rockstar: true
+  rockstar: false
   #ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
@@ -349,7 +367,7 @@ Having graduated from the Information Security Faculty of the National Research 
   title: "Senior Security Architect"
   bio: "Rewanth Cool is currently working as a security consultant at Payatu. He was a speaker at HITB Dubai, Null Pune and trainer at MIT Pune. He participates in numerous Capture-the-Flags (CTF) and enjoys participating in private bug bounty programs. He is a programmer and open source contributor. He collaborated with Daniel Miller a.k.a bonsaviking and added 17,000 lines of code to Nmap. Currently, he is focused on Machine Learning and vulnerability research."
   thumbnailUrl: cool.jpeg
-  rockstar: true
+  rockstar: false
   #ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
