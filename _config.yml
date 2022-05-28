@@ -45,10 +45,10 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "News"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers Archive"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "workshops"}
- - {permalink: "/hackathon/", text: "CTF"}
+ #- {permalink: "/logistics/", text: "workshops"}
+ #- {permalink: "/hackathon/", text: "CTF"}
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfJ6eyQrZJvRxXRdpYjTdckf9hY-wKVzLwEoAswxNbI1pCUFg/viewform", text: "Become a speaker"}
 rightNavigationButtons:
@@ -85,7 +85,7 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 10
-rockstarSpeakersTitle: "Previous Rockstar Speakers"
+rockstarSpeakersTitle: "2022 New Speakers"
 rockstarSpeakersButtonText: "Show all previous speakers!"
 
 # Location Block
