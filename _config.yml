@@ -12,9 +12,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "BSides Cairo"
 email: "bsidescairo@gmail.com"
-description: "Bsides Cairo is an information security conference which will host information security professionals, security researchers, academics, undergrads, graduate students, corporations and any person who wants to share knowledge and learn from others."
-baseurl: "/zeppelin"
-url: "https://cyber-anubis.github.io"
+description: "BSides Cairo is an information security conference!"
+baseurl: "/"
+url: "bsides-cairo.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -23,86 +23,86 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "BSides Cairo"
 organizerAlternateName: "BSides Cairo"
-organizerDescription: "Bsides Cairo is an information security conference which will host information security professionals, security researchers, academics, undergrads, graduate students, corporations and any person who wants to share knowledge and learn from others."
+organizerDescription: "BSides Cairo is an information security conference!"
 organizerEmail: "bsidescairo@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://cyber-anubis.github.io/zeppelin/"
+organizerLink: "https://twitter.com/bsidescairo"
 
 # Head
-metaKeywords: "event, bsides, cairo, cybersecurity, programming, blueteam, developers, "
+metaKeywords: "event, cybersecurity, bsides, cairo, programming, hacking, malwares, blue team, red team"
 twitterAccount: "@BSidesCairo"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"	#call for papers google form
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"	#sponsor pdf
+c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSfJ6eyQrZJvRxXRdpYjTdckf9hY-wKVzLwEoAswxNbI1pCUFg/viewform"
+c4sponsorsUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdWS-J6viFUrOrEmiblQ7t275pgyLvv6QDY6B9ev4plcLUF6A/viewform"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "News"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ #- {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers Archive"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Workshops"}
- - {permalink: "/hackathon/", text: "CTF"}
+ #- {permalink: "/logistics/", text: "workshops"}
+ #- {permalink: "/hackathon/", text: "CTF"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker - bottom link"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfJ6eyQrZJvRxXRdpYjTdckf9hY-wKVzLwEoAswxNbI1pCUFg/viewform", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker - right link"}	#is not found yet
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfJ6eyQrZJvRxXRdpYjTdckf9hY-wKVzLwEoAswxNbI1pCUFg/viewform", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpeg"
-heroTitle: "BSides <typeout> 2021"
-eventDate: "June, 2021"
-typeoutTextValues: '"", "Cairo"'
-typeoutFallback: "TEST"
+heroImage: "hero.jpg"
+heroTitle: "<typeout>"
+eventDate: "24-25th of June, 2022 (Localhost Edition)"
+typeoutTextValues: '"", "BSides Cairo 2022","Awakening The Hacker Pharaoh!"'
+typeoutFallback: "BSides Cairo 2022"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker - Main link"}
- - {permalink: "/#tickets", text: "Buy tickets - Main link"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfJ6eyQrZJvRxXRdpYjTdckf9hY-wKVzLwEoAswxNbI1pCUFg/viewform", text: "Become a speaker"}
+ - {permalink: "/#subscribe", text: "Get Access"}
 
 # About Block
 aboutTitle: "About BSides Cairo"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "Bsides Cairo is an information security conference which will host information security professionals, security researchers, academics, undergrads, graduate students, corporations and any person who wants to share knowledge and learn from others." }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "CTF", image: "hackathon.jpg", text: "Full-day CTF! Grab your team and join our competetion!" }
+ - {title: "Conference", image: "conference.jpg", text: "The biggest BSides event in the country carefully crafted for you by the professional InfoSec community! Awesome pure technical talks and lots of fun!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite topics with talented security professionals!" }
+ - {title: "CTF", image: "hackathon.jpg", text: "Full-day realistic security challenges! Want some real team hacking on friday? Grab your team and join our CTF!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "500", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure technical cyber security"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from allover the world"}
- - {count: "2", specialCharacter: "", info: "Editions", detail: "Sharing knowledge since 2019"}
+ - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure technical cyber security technologies"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "2", specialCharacter: "", info: "previous editions", detail: "BSides Cairo story began back in 2019"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersCount: 10
+rockstarSpeakersTitle: "Previous Rockstar Speakers"
+rockstarSpeakersButtonText: "Show all previous speakers!"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
+eventLocationName: "The GrEEK Campus"
 eventLocationLink: "https://thegreekcampus.com/"
-eventStreetAddress: "The GrEEK Campus"
+eventStreetAddress: "171 El Tahrir, Downtown, Abdeen"
 eventAddressLocality: "Cairo"
 eventAddressLocalityRegion: "Cairo"
 eventPostalCode: "79000"
 eventAddressCountry: "Egypt"
-eventStartTime: "2021-10-25T10:00"
+eventStartTime: "2021-06-24T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2021-10-25T20:00"
-eventPlaceCoordinates: "30.044156166234803, 31.23902378770914"
-mapCenterCoordinates: "30.044156166234803, 31.23902378770914"
-mapMobileCenterCoordinates: "30.044156166234803, 31.23902378770914"
+eventPlaceCoordinates: "30.044658381882243, 31.238914227203516"
+mapCenterCoordinates: "30.044658381882243, 31.238914227203516"
+mapMobileCenterCoordinates: "30.044658381882243, 31.238914227203516"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -110,74 +110,77 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "The GrEEK Campus"
+venueFeatures: ["Huge conference hall with full of services campus.","Seperate rooms for side discussions and workshops.", "Cairo’s first technology and innovation park in the heart of Egypt.","Unfortunately, this year's event will be virtual."]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "BSidesCAI"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: "https://twitter.com/search?q=%23BSidesCAI"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor - Main Link"
+organizersTitle: "Sponsors"
+#partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeTitle: "Once Again, Together We Write History!"
+#subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+
+subscribeInfo: "This year's event is totally FREE. Registration will open soon. Number of seats are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-ticketsOffers:
- -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "EGO"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2021-04-25T10:00"
-  validThrough: "2021-06-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "EGP"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2021-04-01T00:00"
-  validThrough: "2021-06-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "EGP"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2021-04-20T10:00"
-  validThrough: "2021-06-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+#ticketsTitle: "Tickets Registration"
+ticketsInfo: "Tickets are not availabe yet."
+#Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price.
+#ticketsOffers:
+# -
+#  name: "Early Bird"
+#  price: "XXX"
+#  priceCurrency: "USD"
+#  ticketsNumber: "150"
+#  ribbon: "-5%"
+#  buyButtonLink: "http://dfua.ticketforevent.com/"
+#  buyButtonText: "Buy Now"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-08-25T10:00"
+#  validThrough: "2014-09-30T23:59"
+# -
+#  name: "Last Chance"
+#  price: "XXX"
+#  priceCurrency: "USD"
+#  ticketsNumber: "100"
+#  ribbon: "-20%"
+#  featured: true
+#  buyButtonLink: "http://dfua.ticketforevent.com/"
+#  buyButtonText: "Buy Now"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-10-01T00:00"
+#  validThrough: "2014-10-23T23:59"
+#  disabled: true
+# -
+#  name: "Student"
+#  price: "XXX"
+#  priceCurrency: "USD"
+#  ticketsNumber: "50"
+#  buyButtonLink: "http://dfua.ticketforevent.com/"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-08-20T10:00"
+#  validThrough: "2014-10-23T23:59"
+#  soldOut: true
+#  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
  #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/BSidesCairo", icon: "twitter"}
- - {link: "facebook.com/BSCairo", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://twitter.com/bsidescairo", icon: "twitter"}
+ - {link: "https://www.facebook.com/BSCairo/", icon: "facebook"}
+ - {link: "https://www.youtube.com/channel/UCA70YUdXBf_2PN36qkec9Zg", icon: "youtube"}
+ - {link: "https://www.linkedin.com/company/bsides-cairo/", icon: "linkedin"}
 footerBlocks:
  #-
   #title: "Links"
@@ -187,7 +190,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:bsidescairo@gmail.com", text: "bsidescairo@gmail.com"}
+   - {link: "mailto:bsidescairo@gmail.com", text: "BSides Cairo"}
  -
   title: "FAQ"
   links:
@@ -203,7 +206,10 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Bsides Cairo is an information security conference which will host information security professionals, security researchers, academics, undergrads, graduate students, corporations and any person who wants to share knowledge and learn from others."
+aboutUs: "Bsides Cairo is an information security conference which will host information security professionals, security researchers, academics, undergrads, graduate students, corporations and any person who wants to share knowledge and learn from others.
+We look forward to bring together experts, researchers and students to share their thoughts, projects, experiences to face together the current information security challenges of our days and to come up with new ideas and collaborations.
+
+Our mission is to create a more knowledge-based event regardless of age, academic title or industrial position, and to provide the egyptian community with an alternative event by removing the current common industrial and marketing-driven conferences barriers and providing a more technical approach regarding all the organization aspects of an information security conference, from the speakers, to the target audience."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -213,46 +219,46 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "30.044156166234803, 31.23902378770914"
-logisticsMapMobileCenterCoordinates: "30.044156166234803, 31.23902378770914"
+logisticsMapCenterCoordinates: "30.044658381882243, 31.238914227203516"
+logisticsMapMobileCenterCoordinates: "30.044658381882243, 31.238914227203516"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Cairo"
-directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Cairo. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Cairo.'}
- - {title: "Hotels", information: 'Cairo has lots of great hotels and hostels. More information will be available later.'}
-directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#directionDetailsCards:
+# - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+# - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+# - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+#directionDetailsWideCards:
+# -
+#  title: "Questions?"
+#  subCards:
+#   -
+#    title: "Hotels"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#   -
+#    title: "Registration"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#   -
+#    title: "Attendance Details"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
@@ -286,6 +292,6 @@ hackathonStartTime: "2014-10-24T10:00"
 hackathonDoorTime: "09:00"
 hackathonEndTime: "2014-10-25T00:00"
 viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "30.044156166234803, 31.23902378770914"
-hackathonMapCenterCoordinates: "30.044156166234803, 31.23902378770914"
-hackathonMapMobileCenterCoordinates: "30.044156166234803, 31.23902378770914"
+hackathonPlaceCoordinates: "30.044658381882243, 31.238914227203516"
+hackathonMapCenterCoordinates: "30.044658381882243, 31.238914227203516"
+hackathonMapMobileCenterCoordinates: "30.044658381882243, 31.238914227203516"

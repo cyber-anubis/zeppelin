@@ -1,20 +1,16 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: Code Of Conduct
 permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+BSides Cairo is dedicated to providing a harassment-free, constructive, inclusive and pleasant atmosphere for everyone. We do not tolerate harassment or discrimination of conference participants in any form.
+Conference participants violating these rules may be sanctioned or expelled from the conference without a refund.
+We expect participants to follow these rules at all event venues and event-related social activities. We think people should follow these rules outside event activities too!
 
-
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
-
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
-
-
-######Contacts:
-
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
+**If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible.**
+Harassment and other code of conduct violations reduce the value of our event for everyone. We want all participants to be happy at our event.
+Contact a conference volunteer, identified by a volunteer shirt/lanyard, the volunteer will get one of the organizers to take your report, or you can contact an organizer directly, identified by an organizer shirt/lanyard.
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">

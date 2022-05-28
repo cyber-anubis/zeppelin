@@ -1,60 +1,118 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Amgad"
+  surname: "Magdy"
+  #title: "Co-Founder"
+  thumbnailUrl: amjad.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "BSides Cairo", title: "Co-Founder"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/amadglia"}
+    #- {name: "github", link: "https://github.com/zasadnyy"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/amgadmagdy/"}
+    #- {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Nidal"
+  surname: "Fikri"
+  #title: "Malware Analyst"
+  thumbnailUrl: Nidal.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "BSides Cairo", title: "Organizer"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+  #  - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Eslam"
+  surname: "Elhadedy"
+  #title: "Meetoor Company"
+  thumbnailUrl: eslam.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "BSides Cairo", title: "Organizer"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+  #  - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+    - {name: "twitter", link: "https://twitter.com/eslamelhadedy50"}
+    - {name: "site", link: "https://meetoor.com/home/profile/?p=eslamelhadedy"}
+- 
+  id: 3
+  name: "Aya"
+  surname: "Adel"
+  #title: "Cyber Security "
+  thumbnailUrl: aya.jpg
+  team: true
+  social: 
+    
+    - {name: "twitter", link: "https://twitter.com/2ylul"}
+   
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: "Ahmad"
+  surname: "Mansour"
+  #title: "graphic designer"
+  thumbnailUrl: mansour.jpg
+  team: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "site", link: "https://www.behance.net/ahmadkhalid"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ahmadkhaliid/"}
+    
+- 
+  id: 5
+  name: "Amr"
+  surname: "Mosa"
+  #title: "Cyber Security"
+  thumbnailUrl: 2150.png
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/0x1411"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/amr-mosa1/"}
+- 
+  id: 6
+  name: "Mai"
+  surname: "Tarek"
+  #title: "Cyber Security"
+  thumbnailUrl: mai.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mai-tarek25/"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  name: "Ramy"
+  surname: "Sherif"
+  #title: "Cyber Security"
+  thumbnailUrl: ramy.jpg
+  team: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ramy-sherif-5923447a/"}        
+- 
+  id: 8
+  name: "Sharka"
+  surname: "Pekarova"
+  #title: "Cyber Security"
+  thumbnailUrl: sharka.jpeg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/___sh4rk___?s=21"}
+-
+  id: 9
+  name: "Mohammed"
+  surname: "Gipreel"
+  #title: "Cyber Security"
+  thumbnailUrl: gameel.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mohammed-gipreel-aa8b27153/"}
+- 
+  id: 10
+  name: "Catherine"
+  surname: "Chapman"
+  #title: "Cyber Security"
+  thumbnailUrl: Chapman.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cathapman"}    

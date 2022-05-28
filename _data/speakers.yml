@@ -1,67 +1,220 @@
 - 
   id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+  name: "Allan"
+  surname: "Liska"
+  company: "Recorded Future"
+  title: "Intelligence Analyst"
+  bio: "Allan Liska is an intelligence analyst at Recorded Future. Allan has more than 15 years’ experience in information security and has worked as both a blue teamer and a red teamer for the intelligence community and the private sector. Allan has helped countless organizations improve their security posture using more effective and integrated intelligence. Allan is also one of the organizers of Bsides Bordeaux and has presented at security conferences around the world. He is the author of The Practice of Network Security, Building an Intelligence-Led Security Program, and Securing NTP: A Quickstart Guide and the co-author of DNS Security: Defending the Domain Name System and Ransomware: Defending Against Digital Extortion."
+  thumbnailUrl: AllanLiska.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "twitter", link: "https://twitter.com/uuallan"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Nidal"
+  surname: "Fikri"
+  company: "Hatching Triage"
+  title: "Malware Analyst"
+  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  thumbnailUrl: Nidal2.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  name: "Javier"
+  surname: "Perez"
+  company: "Dreamlab Technologies"
+  title: "Director of R&D LATAM"
+  bio: "Fan of tech and cybersecurity, ISECOM OSSTMM instructor, trainer for security courses, speaker, researcher. Almost 10 years in the cybersecurity world. During recent years, he has specialized in payment systems EMV, NFC, POS, ATM. Currently, the director of R&D LATAM at Dreamlab Technologies."
+  thumbnailUrl: JavierPerez.png
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  #ribbon: 
+    #- {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+   # - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    #- {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+    - {name: "twitter", link: "https://twitter.com/mu5ash1"}
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "Eslam"
+  surname: "Salem"
+  company: "Datadog, Inc."
+  title: "Application Security Engineer"
+  bio: "Developer, security evangelist and CEO & founder of Shieldfy. 13+ years of experience in web development. Worked as a developer, team leader, security consultant at many companies in Egypt, Qatar, UAE and Canada. Founded Shieldfy, a security platform for developers."
+  thumbnailUrl: EslamS.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #ribbon:
+   # - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    #- {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+    - {name: "twitter", link: "https://twitter.com/net_code"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Abdulrahman"
+  surname: "Al-Nimari"
+  company: "RSG (Rock Solid Group)"
+  title: "CISO"
+  bio: "Abdulrahman Al-Nimari is a self motivated renowned cyber security expert and a frequent conference speaker. Al-Nimari spend his time breaking, fixing, teaching, consulting and architecting security stuff. He has more than 25 years experience, with 15 of them in cyber security concentration. He played many roles in different IT and Cyber Security fields in both public and private sectors. His specialties and areas of interests include DFIR, Penetration Testing, Cyber Security consulting and Architecting. Awarded the Arab Cyber Security Social Networks Influencer for 2019."
+  thumbnailUrl: abdo.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "twitter", link: "https://twitter.com/nimari"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alnimari/"}
+- 
+  id: 8
+  name: "Mohamed"
+  surname: "Sadat"
+  company: "Egyptian Banks"
+  title: "Information Security Manager"
+  bio: "Mohamed Sadat is an Information Security Expert with over 10 years of experiences in financial and IT corporations. He started his career path as a red teamer engaged in many penetration test and security assessments. Then he decided to switch to blue team side continue his career path in incident handling, forensic investigation and threat hunting. His areas of experience also include risk assessment, Business constitute, Threat Modeling, designing and implementing secure infrastructure and Governance, risk and compliance (GRC)."
+  thumbnailUrl: sadat.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    #- {name: "twitter", link: "https://twitter.com/nimari"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mohamedsadat/"}
+- 
+  id: 9
+  name: "Mohammad"
+  surname: "Khreesha"
+  company: "Baaz, Inc."
+  title: "Cyber Security Manager"
+  bio: "Mohammad Khreesha is a cybersecurity consultant from Jordan with 13+ years of experince. Mohammad deliver workshops, talks, and trainings on cybersecurity in Jordan, UAE, Egypt, Kosovo and other countries. His research interests in digital forensics, malware analysis, web & network security and their integration with AI.
+He acts as a leader for OWASP Amman chapter and he is the founder of JISCTF which is the first CTF in Jordan with more 150+ yearly participants. He has a YouTube channel in which he publishes training courses and tips in Cybersecurity field to feed the Arabic content on the internet."
+  thumbnailUrl: Mohammad.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    #- {name: "twitter", link: "https://twitter.com/nimari"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/khreesha/"}  
+- 
+  id: 10
+  name: "Kris"
+  surname: "Hunt"
+  company: "Google"
+  title: "Sr. Security Engineering Manager, Detection and Response"
+  bio: "Kris Hunt is the manager of the Australian arm of the Google Detection & Response team. He has focused on the detection side of security for the past 15 years and today, his role is to lead teams of security engineers who innovate and evolve Alphabet's detection systems to match the ever increasing sophistication of attackers."
+  thumbnailUrl: kris.jpeg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    #- {name: "twitter", link: "https://twitter.com/nimari"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sewid/"}
+- 
+  id: 11
+  name: "Grace"
+  surname: "Nolan"
+  company: "Google"
+  title: "Security Engineer"
+  bio: "Grace is a Security Engineer at Google working in Detection & Response. She is responsible for detection of malicious activity on Google’s networks and deep analysis of threats on their corporate, production, and acquisition environments. She works on engineering challenges that get Google closer to having fully automated detection and response systems. In her spare time she likes mentoring women in tech, playing video games, and painting watercolors."
+  thumbnailUrl: grace.jpeg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    #- {name: "twitter", link: "https://twitter.com/nimari"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/grace-nolan-1a72532a/"}
+- 
+  id: 12
+  name: "Denis"
+  surname: "Makrushin"
+  company: "Huawei"
+  title: "Director of Security and Test Technology Center"
+  bio: "Denis has gained diverse experience while working in the information security area. On the defensive side, as a Security Architect, he is responsible for building a security architecture of distributed IT infrastructure across various international business units for a global Fortune 500 company.
+As a security researcher with the Global Research and Analysis Team at Kaspersky Lab, he was focused on vulnerability research and security assessment of emerging technologies. Based on his offensive expertise, he's been a founder and leading expert in the development of a threat intelligence product
+Having graduated from the Information Security Faculty of the National Research Nuclear University MEPhI (Moscow Engineering Physics Institute), he is continuing his research project related to methods of targeted attack detection as a Ph.D. candidate."
+  thumbnailUrl: dennis.jpeg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "twitter", link: "https://twitter.com/makrushind"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/makrushin/"}
+- 
+  id: 13
+  name: " Sharka"
+  surname: "Pekarova"
+  company: "Dreamlab Technologies"
+  title: "Security Consultant"
+  bio: "Grace O’Malley is pirate queen from 16th century that breaks into buildings, exfiltrates sensitive data and gets to places where she shouldn’t be, manipulates people to comply with her demands…oh and Sharka is the nice one, she has been in IT for over 10 years and has rich experience in blue team environment having worked in and managed SOC that guards national British infrastructure in past. Currently she works as penetration tester for SureCloud where she tests everything from infrastructure, web apps to payment systems and specializes in social engineering. In her free time, she researches mainly around radio frequency technologies"
+  thumbnailUrl: sharka.jpeg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "twitter", link: "https://twitter.com/___Sh4rk___"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sarka-/"}
+- 
+  id: 14
+  name: "Jaromir"
+  surname: "Horejsi"
+  company: "Trend Micro"
+  title: "Senior Cyber Threat Researcher"
+  bio: "Jaromir Horejsi is a threat researcher at Trend Micro. He specializes in hunting and reverse-engineering threats that target Windows and Linux. He has researched many types of threats over the course of his career, covering threats such as APTs, DDoS botnets, banking Trojans, click fraud and ransomware. He has successfully presented his research at RSAC, Virus Bulletin, FIRST, AVAR, Botconf and CARO."
+  thumbnailUrl: jaro.jpeg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    #- {name: "twitter", link: "https://twitter.com/nimari"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jaromirhorejsi/"}
+- 
+  id: 15
+  name: "Daniel"
+  surname: "Lunghi"
+  company: "Trend Micro"
+  title: "Threat Researcher"
+  bio: "Daniel Lunghi is a threat researcher at Trend Micro. He has been hunting malware and performing incident response investigation for years, sometimes in IT infrastructures involving thousands of hosts."
+  thumbnailUrl: conf.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "twitter", link: "https://twitter.com/thehellu"}
+    #- {name: "linkedin", link: "https://www.linkedin.com/in/alnimari/"}  
+- 
+  id: 16
+  name: "Heidi"
+  surname: "Winter"
+  company: "Perspective Security"
+  title: "Information Security Specialist"
+  bio: "Heidi is an Australian cyber ninja currently specialising in cyber security risk management, incident management and operations. She has worked in IT project management, system administration, telecommunications and compliance, before making the switch to cyber security, where she has the opportunity to experience both government and enterprise environments. She has a strong interest in offensive and deceptive security projects and has recently been delving into malware analysis and cyber threat intel. While also being a self-declared perpetual n00b, Heidi spends her time giving back to the community by volunteering at conferences across the globe, organizing meet ups and CTFs, and running popular community projects to educate young and old on the joys of the InfoSec."
+  thumbnailUrl: winter.jpeg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "twitter", link: "https://twitter.com/summer__heidi"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/heidiwinter/"} 
+- 
+  id: 17
+  name: "Rewanth"
+  surname: "Cool"
+  company: "Emirates NBD"
+  title: "Senior Security Architect"
+  bio: "Rewanth Cool is currently working as a security consultant at Payatu. He was a speaker at HITB Dubai, Null Pune and trainer at MIT Pune. He participates in numerous Capture-the-Flags (CTF) and enjoys participating in private bug bounty programs. He is a programmer and open source contributor. He collaborated with Daniel Miller a.k.a bonsaviking and added 17,000 lines of code to Nmap. Currently, he is focused on Machine Learning and vulnerability research."
+  thumbnailUrl: cool.jpeg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "twitter", link: "https://twitter.com/rewanthtammana"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rewanthtammana/"}                                     
