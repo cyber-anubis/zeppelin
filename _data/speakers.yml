@@ -1,4 +1,142 @@
 - 
+  id: 0
+  name: "Aseem"
+  surname: "Shrey"
+  company: "GoTo"
+  title: "Senior Information Security Engineer"
+  bio: "Senior Information Security Engineer at GoTo ( GoJek + Tokopedia Merger ) , 
+an Indonesian decacorn super app. I teach CyberSecurity @HackingSimplified and blog about some of my security findings on my website,
+ aseemshrey.in . Acknowledged for securing the government of India’s Digilocker, various MNC’s like Sony, IBM, GM and many Indian companies and startups. All India 1st in Nullcon CTF 2018 . Interested in web app exploitation especially logical bugs and reverse engineering. CTF player with NULLKrypt3rs"
+  thumbnailUrl: Nidal2.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+- 
+  id: 1
+  name: "Jeany"
+  surname: "Radcliffe"
+  company: "HumanFactorSecurity"
+  title: "Founder & Social Engineer"
+  bio: "A lifelong social engineer and professional con artist, Jenny Radcliffe specialises in physical infiltrations and psychological elements of security.  She is the host of the current Best European Security Podcast - The Human Factor Security Podcast as well as TeissTalk and is a frequent guest on podcasts,
+ expert on cons, scams and frauds on both traditional and social media.  She is a frequent keynote speaker and travels globally headlining 
+corporate events and conferences educating audiences about social engineering and security.
+Jenny is the founder of HumanFactorSecurity.co.uk a consultancy helping clients
+ prepare and defend against malicious social engineering and related attacks."
+  thumbnailUrl: Nidal2.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+- 
+  id: 2
+  name: "Nidal"
+  surname: "Fikri"
+  company: "Hatching Triage"
+  title: "Malware Analyst"
+  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  thumbnailUrl: Nidal2.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+- 
+  id: 3
+  name: "Nidal"
+  surname: "Fikri"
+  company: "Hatching Triage"
+  title: "Malware Analyst"
+  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  thumbnailUrl: Nidal2.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+- 
+  id: 4
+  name: "Nidal"
+  surname: "Fikri"
+  company: "Hatching Triage"
+  title: "Malware Analyst"
+  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  thumbnailUrl: Nidal2.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+- 
+  id: 5
+  name: "Nidal"
+  surname: "Fikri"
+  company: "Hatching Triage"
+  title: "Malware Analyst"
+  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  thumbnailUrl: Nidal2.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+- 
+  id: 6
+  name: "Nidal"
+  surname: "Fikri"
+  company: "Hatching Triage"
+  title: "Malware Analyst"
+  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  thumbnailUrl: Nidal2.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+- 
+  id: 7
+  name: "Nidal"
+  surname: "Fikri"
+  company: "Hatching Triage"
+  title: "Malware Analyst"
+  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  thumbnailUrl: Nidal2.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+- 
+  id: 8
+  name: "Nidal"
+  surname: "Fikri"
+  company: "Hatching Triage"
+  title: "Malware Analyst"
+  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  thumbnailUrl: Nidal2.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+- 
+  id: 9
+  name: "Nidal"
+  surname: "Fikri"
+  company: "Hatching Triage"
+  title: "Malware Analyst"
+  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  thumbnailUrl: Nidal2.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+- 
+  id: 10
+  name: "Nidal"
+  surname: "Fikri"
+  company: "Hatching Triage"
+  title: "Malware Analyst"
+  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  thumbnailUrl: Nidal2.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    - {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+- 
   id: 11
   name: "Allan"
   surname: "Liska"
