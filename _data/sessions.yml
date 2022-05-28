@@ -247,7 +247,7 @@ Egg Hunter to Get a Shell"
   id: 027
   title: "BSides Egypt Community"
   #subtype: keynote
-  speakers: [26,27,28,12]
+  speakers: [33,27,28,12]
   language: ar
   description: "Talking about the upcoming BSides new acctivites in Egypt."
   #complexity: "Expert"

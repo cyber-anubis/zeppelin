@@ -2,9 +2,9 @@
   date: "2022-06-24"
   dateReadable: "June 24"
   tracks: 
-    - {title: "Main Talks", color: "#90be4e"}
-    - {title: "Sponsors", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "Presentations", color: "#90be4e"}
+    #- {title: "Sponsors", color: "#03a9f4"}
+    #- {title: "Community", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "13:00",
@@ -55,9 +55,9 @@
   date: "2022-06-25"
   dateReadable: "June 25"
   tracks: 
-    - {title: "Main Talks", color: "#90be4e"}
-    - {title: "Sponsors", color: "#03a9f4"}
-    - {title: "Community", color: "#03a9f4"}
+    - {title: "Presentations", color: "#90be4e"}
+    #- {title: "Sponsors", color: "#03a9f4"}
+    #- {title: "Community", color: "#03a9f4"}
   timeslots: 
     - {
     	startTime: "10:00",
