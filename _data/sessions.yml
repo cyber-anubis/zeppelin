@@ -140,4 +140,148 @@ In this talk, we will discuss & explain AI and how to integrate it with cyber se
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
--            
+-
+  id: 016
+  title: "Opening Words"
+  #subtype: keynote
+  speakers: [29,30]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 017
+  title: "The Hack that never fails - 
+Why Social Engineering is still the biggest security threat"
+  #subtype: keynote
+  speakers: [1]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 018
+  title: "Bypassing ISP Censorship for 
+a Transparent Internet"
+  #subtype: keynote
+  speakers: [0]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 019
+  title: "Learning Policy as Code
+ Without Loosing Your Mind"
+  #subtype: keynote
+  speakers: [2]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 020
+  title: "From SEH Overwrite with 
+Egg Hunter to Get a Shell"
+  #subtype: keynote
+  speakers: [3]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 021
+  title: "Your game is my game. Reverse me if you can!"
+  subtype: keynote
+  speakers: [5]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 022
+  title: "Breaking logic, Creating CVEs"
+  #subtype: keynote
+  speakers: [4]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 023
+  title: "Tines"
+  #subtype: keynote
+  #speakers: [25]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 024
+  title: "The Next Generation of Malware Detection"
+  #subtype: keynote
+  speakers: [6,7]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+id: 025
+  title: "Zero Trust"
+  #subtype: keynote
+  speakers: [10,26]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+id: 026
+  title: "MITREMITRE ATT&CK (Engage Panel)"
+  #subtype: keynote
+  speakers: [8,9]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+id: 027
+  title: "BSides Egypt Community"
+  #subtype: keynote
+  speakers: [26,27,28,12]
+  language: ar
+  description: "Talking about the upcoming BSides new acctivites in Egypt."
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+id: 028
+  title: "Closing Words (First Day)"
+  #subtype: keynote
+  speakers: [30]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+id: 029
+  title: "Closing Words"
+  #subtype: keynote
+  speakers: [29]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
+  id: 307
+  title: "Break"
+  #place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 503
+  title: "Lunch Break"
+  #place: "Dining room"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+
