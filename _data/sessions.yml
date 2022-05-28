@@ -226,7 +226,7 @@ Egg Hunter to Get a Shell"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
 -
-id: 025
+  id: 025
   title: "Zero Trust"
   #subtype: keynote
   speakers: [10,26]
@@ -235,7 +235,7 @@ id: 025
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
 -
-id: 026
+  id: 026
   title: "MITREMITRE ATT&CK (Engage Panel)"
   #subtype: keynote
   speakers: [8,9]
@@ -244,7 +244,7 @@ id: 026
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
 -
-id: 027
+  id: 027
   title: "BSides Egypt Community"
   #subtype: keynote
   speakers: [26,27,28,12]
@@ -254,7 +254,7 @@ id: 027
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
 -
-id: 028
+  id: 028
   title: "Closing Words (First Day)"
   #subtype: keynote
   speakers: [30]
@@ -263,7 +263,7 @@ id: 028
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
 -
-id: 029
+  id: 029
   title: "Closing Words"
   #subtype: keynote
   speakers: [29]
