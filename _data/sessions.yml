@@ -228,6 +228,8 @@ Egg Hunter to Get a Shell"
 -
   id: 025
   title: "Zero Trust"
+  description: "Two decades ago, a loose affiliation of interested corporate CISOs started discussing the emerging threats of modern technologies in a hyper connected world, forming the “Jericho Forum”; they defined and promoted the concept of “de-perimeterisation” of information systems … which laid the foundations of what is currently known as “Zero Trust”.
+Zero trust is a cybersecurity paradigm focused on resource protection and the premise that trust is never granted implicitly but must be continually evaluated; in this talk, we will explore the history of ZT, its fundamental concepts, the interpretation of the key industry leaders, and how you might want to start adopting it in your own environment."
   #subtype: keynote
   speakers: [10,26]
   language: en
