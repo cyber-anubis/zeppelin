@@ -156,6 +156,9 @@ Why Social Engineering is still the biggest security threat"
   #subtype: keynote
   speakers: [1]
   language: en
+  description: "This talk discusses the continued evolution of Social Engineering as and how the practice mutates and adapts to the meta-environment,
+ prevailing technology and evolving security systems. 
+ This talk  of interest to technical and non-technical audiences from both an attack and defence perspective."
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
@@ -166,6 +169,12 @@ a Transparent Internet"
   #subtype: keynote
   speakers: [0]
   language: en
+  description: "In recent times, internet censorship has increased throughout the world. With governments realising the potential of the internet in spreading information as well as misinformation.
+To curb or rather control this, governments around the globe have taken to censoring parts of the internet by directing major ISPs to block access to those websites.
+The ISPs around the globe have used different methods to block the access. Some resulting in DNS filtering to others doing SNI ( Server Name Information ) inspection.
+There have been ways to bypass these restrictions, like DoH ( DNS over HTTPS ) and eSNI ( encrypted SNI ), now ECH ( Encrypted Client Hello ), supported by TLS 1.3.
+To counter these, some authoritarian regimes ( like China ) have blocked eSNI traffic altogether, to be able to sniff the traffic and block the websites accordingly on their ‘Great Firewall’.
+I will be talking about how these different mechanisms of blocking user traffic works, by doing a live demo of packet analysis using wireshark."
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
@@ -176,6 +185,18 @@ a Transparent Internet"
   #subtype: keynote
   speakers: [2]
   language: en
+  description: "If your Organization policies are still managed through GUI, we lose the benefits of audibility, repeatability, and testability of those policies such as access control, scan results evaluation, and other decision making procedures. Policy as code helps us manage policies in a declarative way and enforce them across your entire application and technology stack. If you wanted to learn about Policy as Code, and better yet get started with Policy as Code, join us in this talk where we teach you how to get started with Policy as Code through Open Policy Agent.
+
+Some of the areas we will cover in this talk include:
+1. The need for Policy as Code
+2. Exploring Open Policy Agent
+3. Understanding the constructs of a Declarative Policy Language
+4. Walkthrough of Implementation use cases from application and container orchestration perspective
+
+At the end of the session, you would gain a solid understanding  of:
+1. The basics of Policy as Code
+2. Introducing Policy as Code in your technology stack
+3. The application of Policies through the Rego language in Open Policy Agent"
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
@@ -186,6 +207,10 @@ Egg Hunter to Get a Shell"
   #subtype: keynote
   speakers: [3]
   language: en
+  description: "In this talk we gonna learn what is SEH (Structured Exception Handler), what your function in the system, as well as your famous message "program has encountered a problem and needs to close", and how and why sometimes in exploit development is necessary in memory stack, overwrite the SEH.
+We also gonna learn what is the function for exploitation technique called Egg Hunter, and when is necessary to make use of this technique.
+For end, we gonna learn create from zero an exploit, to exploit a Buffer Overflow vulnerability utilizing the technique SEH Overwrite with use of Egg Hunter, and we will looking for badchars to avoid errors in our shellcode, all this to get a reverse shell.
+"
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
@@ -204,6 +229,10 @@ Egg Hunter to Get a Shell"
   #subtype: keynote
   speakers: [4]
   language: en
+  description: "My talk is mainly for beginners who need to know more about the types of logic vulnerabilities and how to find and exploit these types of magic bugs. I’ll start by declaring the differences between logical and traditional bugs and why I’m looking for the logical ones first. 
+As we know, the logical bugs have a variety of types, and you can find and exploit them by using multiple techniques, all you need to do is to focus on multiple points, so I’ll try to create a creative mindset to understand the business of the target and how the bug will affect him to get the most benefit from it like chaining bugs to get the highest impact you can achieve. 
+Through the talk, I’ll get real-world scenarios of my logical findings to declare my words like Account takeover, Parameter tampering, Broken Access Control and more. Also, I’ll talk about 4 CVEs I assigned for the first time and declare how I managed to read internal bank documents, users’ transactions, companies deals, and more critical data by chaining and exploiting the vulnerable logic functions, parameters and endpoints.
+"
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
@@ -222,6 +251,19 @@ Egg Hunter to Get a Shell"
   #subtype: keynote
   speakers: [6,7]
   language: en
+  description: "Detecting malware is a very crucial problem now in the world as many companies and 
+people lose their information and privacy through malicious software which infects
+ them to exfiltrate and leak data which is then used to blackmail organizations or persons to pay money
+ to avoid publishing their data on the internet. Hackers steal research or architecture of productions
+ which makes companies or governments suffer from huge losses of money and effort.
+ Detecting malicious files is categorized into two divisions ( detection by patterns and by behavior ). 
+For each method, there are pros and cons.
+ There are cutting-edge approaches that provide rule-based patterns which humans should add manually with the abilities of their brains. 
+The major problem with detection by rule-based patterns that it's very tedious to 
+write rules like YARA for detecting many variants of a malicious family, 
+and auto-generation tools can result in false-positive also if we wrote 
+rules for each sample, we'd get a performance hit, 
+SO we've focused our research on taking static detection into next level by using machine learning and inspired by state-of-the-art approaches, and we've made a proof of concept on our methodology. All in all, our goal is to replace traditional rule-based patterns with new machine learning approaches and also inspire others to take malware detection to the next level."
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
@@ -233,6 +275,7 @@ Zero trust is a cybersecurity paradigm focused on resource protection and the pr
   #subtype: keynote
   speakers: [10,26]
   language: en
+  discription: ""
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
