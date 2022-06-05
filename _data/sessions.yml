@@ -191,8 +191,7 @@ I will be talking about how these different mechanisms of blocking user traffic 
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
 -
   id: 020
-  title: "From SEH Overwrite with 
-Egg Hunter to Get a Shell"
+  title: "From SEH Overwrite with Egg Hunter to Get a Shell"
   #subtype: keynote
   speakers: [3]
   language: en
