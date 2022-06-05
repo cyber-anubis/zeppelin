@@ -285,7 +285,7 @@ Zero trust is a cybersecurity paradigm focused on resource protection and the pr
   id: 026
   title: "MITRE ATT&CK (Engage Panel)"
   #subtype: keynote
-  speakers: [8,9]
+  speakers: [8,9,31]
   language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

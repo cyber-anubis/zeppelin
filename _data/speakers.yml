@@ -189,6 +189,24 @@ an Indonesian decacorn super app. I teach CyberSecurity @HackingSimplified and b
   #social: 
     #- {name: "twitter", link: "https://twitter.com/cyber_anubis"}
     #- {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+- 
+  id: 31
+  name: "Catherine"
+  surname: "Chapman"
+  company: "Bug Bounty Switzerland"
+  title: "Journalist | Producer"
+  bio: "I'm a journalist with extensive experience in broadcast, print, and new media. My work focuses on topics of privacy, security, and the technical and cultural aspects of the digital self. I'm interested in media theory, technology-enabled communication, and the relationship between high and low-tech warfare. 
+
+I have a strong background in current affairs and investigatory practice, with an MA dissertation produced on journalism and the Five Eyes intelligence agencies. My expertise also includes web hacking, data policy, and information exchange between security researchers and reporters. 
+
+I am a founding board member for The InfoSec Hoppers, a Manchester-based information security skills and diversity group. Examples of my work can be found in publications such as Vice, NBC, The Lancet, MailOnline, The Daily Swig, and The International New York Times. "
+  thumbnailUrl: Chapman.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "NEW", title: "2022 Conference Speaker!"}
+  #social: 
+    #- {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    #- {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 -
   id: 11
   name: "Allan"
@@ -443,3 +461,4 @@ My current research focuses on Active Cyber Defence, feel free to keep in touch!
     #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     #- {name: "twitter", link: "https://twitter.com/rewanthtammana"}
     #- {name: "linkedin", link: "https://www.linkedin.com/in/rewanthtammana/"}
+
