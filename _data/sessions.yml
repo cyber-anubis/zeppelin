@@ -219,6 +219,9 @@ For end, we gonna learn create from zero an exploit, to exploit a Buffer Overflo
   subtype: keynote
   speakers: [5]
   language: en
+  description: "In 2021, the gaming industry generated $155 billion in revenue and by 2025, it is expected the industry will generate more than $260 billion in revenue. This makes it a lucrative target for cybercriminals.
+To protect their user and fair experience, game publishers and developers fight endlessly against cheats and use every trick to protect their games, clients, from tampering and reversing engineering.  It is a cat and mouse game.
+In this talk, we will explore the game cheating and anti-cheating techniques and tricks. How an attacker can get access to the game’s secrets and how security engineers fight and protect the game assets."
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
@@ -288,16 +291,6 @@ Zero trust is a cybersecurity paradigm focused on resource protection and the pr
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
 -
-  id: 027
-  title: "BSides Egypt Community"
-  #subtype: keynote
-  speakers: [33,27,28,12]
-  language: ar
-  description: "Talking about the upcoming BSides new acctivites in Egypt."
-  #complexity: "Expert"
-  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
--
   id: 028
   title: "Closing Words (First Day)"
   #subtype: keynote
@@ -319,7 +312,7 @@ Zero trust is a cybersecurity paradigm focused on resource protection and the pr
   id: 030
   title: "Conference Sponsor - Tines"
   #subtype: keynote
-  speakers: [31]
+  speakers: []
   language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -329,12 +322,12 @@ Zero trust is a cybersecurity paradigm focused on resource protection and the pr
   title: "Break"
   #place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  #description: "The best time to talk with speakers and attendees"
 -
   id: 503
   title: "Lunch Break"
   #place: "Dining room"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  #description: "The best time to talk with speakers and attendees"
 -
 
