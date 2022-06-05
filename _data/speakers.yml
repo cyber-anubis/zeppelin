@@ -439,7 +439,7 @@ Having graduated from the Information Security Faculty of the National Research 
     #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     #- {name: "twitter", link: "https://twitter.com/rewanthtammana"}
     #- {name: "linkedin", link: "https://www.linkedin.com/in/rewanthtammana/"}
-- 
+#- 
 #  id: 28
 #  name: "Amr"
 #  surname: "Mousa"
@@ -488,7 +488,7 @@ My current research focuses on Active Cyber Defence, feel free to keep in touch!
     #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     #- {name: "twitter", link: "https://twitter.com/rewanthtammana"}
     #- {name: "linkedin", link: "https://www.linkedin.com/in/rewanthtammana/"}
-#- 
+- 
 #  id: 31
 #  name: "Tines"
 #  surname: "Speaker"
