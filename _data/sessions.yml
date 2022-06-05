@@ -151,14 +151,13 @@ In this talk, we will discuss & explain AI and how to integrate it with cyber se
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
 -
   id: 017
-  title: "The Hack that never fails - 
-Why Social Engineering is still the biggest security threat"
+  title: "A Users Guide to Physical Infiltrations"
   #subtype: keynote
   speakers: [1]
   language: en
-  description: "This talk discusses the continued evolution of Social Engineering as and how the practice mutates and adapts to the meta-environment,
- prevailing technology and evolving security systems. 
- This talk  of interest to technical and non-technical audiences from both an attack and defence perspective."
+  description: "This talk discusses a physical infiltration test step by step.
+It covers reconnaissance, research and practical preparation and gives advice on kit, pretexts and communication whilst on task, both as an individual tester as well as part of a crew.
+The talk also discusses some of the myths of social engineering and outlines the skills required to be a successful and professional practitioner."
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
@@ -185,7 +184,18 @@ I will be talking about how these different mechanisms of blocking user traffic 
   #subtype: keynote
   speakers: [2]
   language: en
-  description: "test"
+  description: "If your Organization policies are still managed through GUI, we lose the benefits of audibility, repeatability, and testability of those policies such as access control, scan results evaluation, and other decision making procedures. Policy as code helps us manage policies in a declarative way and enforce them across your entire application and technology stack. If you wanted to learn about Policy as Code, and better yet get started with Policy as Code, join us in this talk where we teach you how to get started with Policy as Code through Open Policy Agent.
+
+Some of the areas we will cover in this talk include:
+1. The need for Policy as Code
+2. Exploring Open Policy Agent
+3. Understanding the constructs of a Declarative Policy Language
+4. Walkthrough of Implementation use cases from application and container orchestration perspective
+
+At the end of the session, you would gain a solid understanding  of:
+1. The basics of Policy as Code
+2. Introducing Policy as Code in your technology stack
+3. The application of Policies through the Rego language in Open Policy Agent"
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
