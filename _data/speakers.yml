@@ -19,7 +19,7 @@ an Indonesian decacorn super app. I teach CyberSecurity @HackingSimplified and b
   name: "Jeany"
   surname: "Radcliffe"
   company: "HumanFactorSecurity"
-  title: "Founder & Social Engineer"
+  title: "Social Engineer"
   bio: "A lifelong social engineer and professional con artist, Jenny Radcliffe specialises in physical infiltrations and psychological elements of security.  She is the host of the current Best European Security Podcast - The Human Factor Security Podcast as well as TeissTalk and is a frequent guest on podcasts,
  expert on cons, scams and frauds on both traditional and social media.  She is a frequent keynote speaker and travels globally headlining 
 corporate events and conferences educating audiences about social engineering and security.
@@ -53,8 +53,8 @@ Microsoft Certified Trainer, ISO 27001 Lead Auditor, Professional Scrum Master I
   id: 3
   name: "Rodolpho"
   surname: "Concurde"
-  company: "TEst"
-  title: "Test"
+  company: "Self Employed"
+  title: "Information Security Consultant"
   bio: "Brazilian, certified C|EH, having begun his studies about Information Security 13 years ago, and passed 11 years has realized projects of Application/Infrastructure Penetration Test, Security Analysis, Code Review and Hardening for industries such as: Telecommunications, Aviation,
  Financial Institutions, Information Technology and Mining. In his free time like of research and practice news techniques of Attack and something of Reverse Engineering. Speaker at many conferences as: Hack In The Box, Ekoparty, Arab Security Conference, Red Team Village, Stackconf,
  MorterueloCON, BSides Calgary, BSides Newcastle, BSides Athens, etc... Author: From SEH Overwrite to get a shell –
@@ -128,8 +128,8 @@ novel algorithms for problems in the field."
   id: 8
   name: "Maretta"
   surname: "Morovitz"
-  company: "test"
-  title: "test"
+  company: "MITRE"
+  title: "MITRE Engage Lead"
   bio: "Maretta Morovitz is the MITRE Engage Lead, 
 working in the areas of adversary engagement, malware analysis, and reverse engineering. 
 She holds a BS degree in CS from the Tufts University School of Engineering.
@@ -147,8 +147,8 @@ still anxiously awaiting her letter from Hogwarts, or snuggling with her dog and
   id: 9
   name: "Adam"
   surname: "Pennington"
-  company: "test"
-  title: "test"
+  company: "MITRE"
+  title: "MITRE ATT&CK Lead"
   bio: "Adam Pennington leads ATT&CK at The MITRE Corporation and collected much of the intelligence leveraged in creating ATT&CK’s initial techniques. He has spent much of his 13 years with MITRE studying and preaching the use of deception for intelligence gathering.
 Prior to joining MITRE, Adam was a researcher at Carnegie Mellon’s Parallel Data Lab and earned his BS and MS degrees in Computer Science and Electrical and Computer Engineering as well as the 2017 Alumni Service Award from Carnegie Mellon University. Adam has presented and published in a number of venues including FIRST CTI, USENIX Security, DEF CON, and ACM Transactions on Information and System Security."
   thumbnailUrl: AdamPennington-MITRE.png
@@ -163,7 +163,7 @@ Prior to joining MITRE, Adam was a researcher at Carnegie Mellon’s Parallel Da
   name: "Sherif"
   surname: "El Deeb"
   company: "Microsoft"
-  title: "test"
+  title: "National Security Officer"
   bio: "In a previous life, I used to work for law enforcement, public safety and national cybersecurity agencies on SOC operations, IR, CTI and chasing threat actors across government networks, in addition to securing major sports events.
 Now being part of Microsoft, I am responsible for leading the strategy and engagement with the relevant national cybersecurity, CERT, CI and Intelligence agencies in my region, articulate Microsoft’s holistic security vision, strategy, and value proposition at customer and national level, and mapping existing industry requirements to Microsoft’s compliance capabilities."
   thumbnailUrl: sherif_eldeep.jpg
@@ -177,8 +177,8 @@ Now being part of Microsoft, I am responsible for leading the strategy and engag
   id: 26
   name: "Hossam"
   surname: "El Moshrify"
-  company: "Hatching Triage"
-  title: "Malware Analyst"
+  company: "SITA"
+  title: "Head of Airports Operations"
   bio: "I have built a track record over a 18-year career of delivering outstanding results and operations efficiency.
 In my current position as Head of Airports Operations for SITA, a leading international IT provider for the air transport industry , delivering solutions for airlines, airports, aircraft, and governments. I am managing +100 team members responsible for the 247 operations of passengers and Airport management systems in Saudi Arabia & Kuwait covering more than 25 airports.
 Strongly skilled and dedicated ITIL Expert with a superior work ethic and client satisfaction record. Expert in leading collaborative initiatives with cross-functional and virtual teams using a customer centric approach to meet customer business requirements."
@@ -409,45 +409,45 @@ Having graduated from the Information Security Faculty of the National Research 
     #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "twitter", link: "https://twitter.com/rewanthtammana"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/rewanthtammana/"}
-- 
-  id: 33
-  name: "Mai"
-  surname: "Tarek"
+#- 
+#  id: 33
+#  name: "Mai"
+#  surname: "Tarek"
   #company: "Emirates NBD"
   #title: "Senior Security Architect"
   #bio: "Rewanth Cool is currently working as a security consultant at Payatu. He was a speaker at HITB Dubai, Null Pune and trainer at MIT Pune. He participates in numerous Capture-the-Flags (CTF) and enjoys participating in private bug bounty programs. He is a programmer and open source contributor. He collaborated with Daniel Miller a.k.a bonsaviking and added 17,000 lines of code to Nmap. Currently, he is focused on Machine Learning and vulnerability research."
-  thumbnailUrl: mai.jpg
-  rockstar: false
+#  thumbnailUrl: mai.jpg
+#  rockstar: false
   #ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   #social: 
     #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     #- {name: "twitter", link: "https://twitter.com/rewanthtammana"}
     #- {name: "linkedin", link: "https://www.linkedin.com/in/rewanthtammana/"}
-- 
-  id: 27
-  name: "Aya"
-  surname: "Adel"
+#- 
+#  id: 27
+#  name: "Aya"
+#  surname: "Adel"
   #company: "Emirates NBD"
   #title: "Senior Security Architect"
   #bio: "Rewanth Cool is currently working as a security consultant at Payatu. He was a speaker at HITB Dubai, Null Pune and trainer at MIT Pune. He participates in numerous Capture-the-Flags (CTF) and enjoys participating in private bug bounty programs. He is a programmer and open source contributor. He collaborated with Daniel Miller a.k.a bonsaviking and added 17,000 lines of code to Nmap. Currently, he is focused on Machine Learning and vulnerability research."
-  thumbnailUrl: aya.jpg
-  rockstar: false
+#  thumbnailUrl: aya.jpg
+#  rockstar: false
   #ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
+#  social: 
     #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     #- {name: "twitter", link: "https://twitter.com/rewanthtammana"}
     #- {name: "linkedin", link: "https://www.linkedin.com/in/rewanthtammana/"}
 - 
-  id: 28
-  name: "Amr"
-  surname: "Mousa"
+#  id: 28
+#  name: "Amr"
+#  surname: "Mousa"
   #company: "Emirates NBD"
   #title: "Senior Security Architect"
   #bio: "Rewanth Cool is currently working as a security consultant at Payatu. He was a speaker at HITB Dubai, Null Pune and trainer at MIT Pune. He participates in numerous Capture-the-Flags (CTF) and enjoys participating in private bug bounty programs. He is a programmer and open source contributor. He collaborated with Daniel Miller a.k.a bonsaviking and added 17,000 lines of code to Nmap. Currently, he is focused on Machine Learning and vulnerability research."
-  thumbnailUrl: 2150.png
-  rockstar: false
+#  thumbnailUrl: 2150.png
+#  rockstar: false
   #ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   #social: 
@@ -458,9 +458,13 @@ Having graduated from the Information Security Faculty of the National Research 
   id: 29
   name: "Amgad"
   surname: "Magdy"
-  #company: "Emirates NBD"
-  #title: "Senior Security Architect"
-  #bio: "Rewanth Cool is currently working as a security consultant at Payatu. He was a speaker at HITB Dubai, Null Pune and trainer at MIT Pune. He participates in numerous Capture-the-Flags (CTF) and enjoys participating in private bug bounty programs. He is a programmer and open source contributor. He collaborated with Daniel Miller a.k.a bonsaviking and added 17,000 lines of code to Nmap. Currently, he is focused on Machine Learning and vulnerability research."
+  company: "SnellSec"
+  title: "Lead"
+  bio: "This is Amgad (Amad) and I'm a cyber threat intelligence consultant, and beside my current role I'm MS.c student and academic researcher about Active Cyber Defence. 
+
+My first career was an editor and blogger for several technology magazines and websites in Middle East and North Africa region, and it's my key pass to enter cyber security industry by reviewing technologies and advising people; How to deal with technologies from cyber prospective. 
+
+My current research focuses on Active Cyber Defence, feel free to keep in touch!"
   thumbnailUrl: amjad.jpg
   rockstar: false
   #ribbon:
@@ -473,9 +477,9 @@ Having graduated from the Information Security Faculty of the National Research 
   id: 30
   name: "Ramy"
   surname: "Sherif"
-  #company: "Emirates NBD"
-  #title: "Senior Security Architect"
-  #bio: "Rewanth Cool is currently working as a security consultant at Payatu. He was a speaker at HITB Dubai, Null Pune and trainer at MIT Pune. He participates in numerous Capture-the-Flags (CTF) and enjoys participating in private bug bounty programs. He is a programmer and open source contributor. He collaborated with Daniel Miller a.k.a bonsaviking and added 17,000 lines of code to Nmap. Currently, he is focused on Machine Learning and vulnerability research."
+  company: "Banque du Caire"
+  title: "Information Security Supervisor"
+  bio: "Experienced Information Security with a demonstrated history of working in the banking industry. Skilled in Firewalls, Management, Cryptography, Networking, and Incident Response."
   thumbnailUrl: ramy.jpg
   rockstar: false
   #ribbon:
@@ -484,15 +488,15 @@ Having graduated from the Information Security Faculty of the National Research 
     #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     #- {name: "twitter", link: "https://twitter.com/rewanthtammana"}
     #- {name: "linkedin", link: "https://www.linkedin.com/in/rewanthtammana/"}
-- 
-  id: 31
-  name: "Tines"
-  surname: "Speaker"
+#- 
+#  id: 31
+#  name: "Tines"
+#  surname: "Speaker"
   #company: "Emirates NBD"
   #title: "Senior Security Architect"
-  bio: "In security, and beyond, human creativity is wasted on executing repetitive manual procedures. Tines exists to empower people at the frontlines to robustly automate their work, without code."
-  thumbnailUrl: tines.jpg
-  rockstar: false
+#  bio: "In security, and beyond, human creativity is wasted on executing repetitive manual procedures. Tines exists to empower people at the frontlines to robustly automate their work, without code."
+#  thumbnailUrl: tines.jpg
+#  rockstar: false
   #ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   #social: 
