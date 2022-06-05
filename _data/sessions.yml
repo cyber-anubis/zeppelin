@@ -186,13 +186,11 @@ I will be talking about how these different mechanisms of blocking user traffic 
   speakers: [2]
   language: en
   description: "If your Organization policies are still managed through GUI, we lose the benefits of audibility, repeatability, and testability of those policies such as access control, scan results evaluation, and other decision making procedures. Policy as code helps us manage policies in a declarative way and enforce them across your entire application and technology stack. If you wanted to learn about Policy as Code, and better yet get started with Policy as Code, join us in this talk where we teach you how to get started with Policy as Code through Open Policy Agent.
-
 Some of the areas we will cover in this talk include:
 1. The need for Policy as Code
 2. Exploring Open Policy Agent
 3. Understanding the constructs of a Declarative Policy Language
-4. Walkthrough of Implementation use cases from application and container orchestration perspective
-
+4. Walkthrough of Implementation use cases from application and container orchestration perspective.
 At the end of the session, you would gain a solid understanding  of:
 1. The basics of Policy as Code
 2. Introducing Policy as Code in your technology stack
