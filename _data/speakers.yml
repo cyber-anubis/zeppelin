@@ -409,51 +409,6 @@ Having graduated from the Information Security Faculty of the National Research 
     #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "twitter", link: "https://twitter.com/rewanthtammana"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/rewanthtammana/"}
-#- 
-#  id: 33
-#  name: "Mai"
-#  surname: "Tarek"
-  #company: "Emirates NBD"
-  #title: "Senior Security Architect"
-  #bio: "Rewanth Cool is currently working as a security consultant at Payatu. He was a speaker at HITB Dubai, Null Pune and trainer at MIT Pune. He participates in numerous Capture-the-Flags (CTF) and enjoys participating in private bug bounty programs. He is a programmer and open source contributor. He collaborated with Daniel Miller a.k.a bonsaviking and added 17,000 lines of code to Nmap. Currently, he is focused on Machine Learning and vulnerability research."
-#  thumbnailUrl: mai.jpg
-#  rockstar: false
-  #ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  #social: 
-    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    #- {name: "twitter", link: "https://twitter.com/rewanthtammana"}
-    #- {name: "linkedin", link: "https://www.linkedin.com/in/rewanthtammana/"}
-#- 
-#  id: 27
-#  name: "Aya"
-#  surname: "Adel"
-  #company: "Emirates NBD"
-  #title: "Senior Security Architect"
-  #bio: "Rewanth Cool is currently working as a security consultant at Payatu. He was a speaker at HITB Dubai, Null Pune and trainer at MIT Pune. He participates in numerous Capture-the-Flags (CTF) and enjoys participating in private bug bounty programs. He is a programmer and open source contributor. He collaborated with Daniel Miller a.k.a bonsaviking and added 17,000 lines of code to Nmap. Currently, he is focused on Machine Learning and vulnerability research."
-#  thumbnailUrl: aya.jpg
-#  rockstar: false
-  #ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#  social: 
-    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    #- {name: "twitter", link: "https://twitter.com/rewanthtammana"}
-    #- {name: "linkedin", link: "https://www.linkedin.com/in/rewanthtammana/"}
-#- 
-#  id: 28
-#  name: "Amr"
-#  surname: "Mousa"
-  #company: "Emirates NBD"
-  #title: "Senior Security Architect"
-  #bio: "Rewanth Cool is currently working as a security consultant at Payatu. He was a speaker at HITB Dubai, Null Pune and trainer at MIT Pune. He participates in numerous Capture-the-Flags (CTF) and enjoys participating in private bug bounty programs. He is a programmer and open source contributor. He collaborated with Daniel Miller a.k.a bonsaviking and added 17,000 lines of code to Nmap. Currently, he is focused on Machine Learning and vulnerability research."
-#  thumbnailUrl: 2150.png
-#  rockstar: false
-  #ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  #social: 
-    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    #- {name: "twitter", link: "https://twitter.com/rewanthtammana"}
-    #- {name: "linkedin", link: "https://www.linkedin.com/in/rewanthtammana/"}
 - 
   id: 29
   name: "Amgad"
@@ -488,18 +443,3 @@ My current research focuses on Active Cyber Defence, feel free to keep in touch!
     #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     #- {name: "twitter", link: "https://twitter.com/rewanthtammana"}
     #- {name: "linkedin", link: "https://www.linkedin.com/in/rewanthtammana/"}
-- 
-#  id: 31
-#  name: "Tines"
-#  surname: "Speaker"
-  #company: "Emirates NBD"
-  #title: "Senior Security Architect"
-#  bio: "In security, and beyond, human creativity is wasted on executing repetitive manual procedures. Tines exists to empower people at the frontlines to robustly automate their work, without code."
-#  thumbnailUrl: tines.jpg
-#  rockstar: false
-  #ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  #social: 
-    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    #- {name: "twitter", link: "https://twitter.com/rewanthtammana"}
-    #- {name: "linkedin", link: "https://www.linkedin.com/in/rewanthtammana/"}                                     
