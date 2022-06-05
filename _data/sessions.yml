@@ -196,7 +196,10 @@ Egg Hunter to Get a Shell"
   #subtype: keynote
   speakers: [3]
   language: en
-  description: "test"
+  description: "In this talk we gonna learn what is SEH (Structured Exception Handler), what your function in the system, as well as your famous message "program has encountered a problem and needs to close", and how and why sometimes in exploit development is necessary in memory stack, overwrite the SEH.
+We also gonna learn what is the function for exploitation technique called Egg Hunter, and when is necessary to make use of this technique.
+For end, we gonna learn create from zero an exploit, to exploit a Buffer Overflow vulnerability utilizing the technique SEH Overwrite with use of Egg Hunter, and we will looking for badchars to avoid errors in our shellcode, all this to get a reverse shell.
+"
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
