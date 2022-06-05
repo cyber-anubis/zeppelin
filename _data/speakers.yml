@@ -18,7 +18,7 @@ Prior to joining MITRE, Adam was a researcher at Carnegie Mellon’s Parallel Da
   name: "Jeany"
   surname: "Radcliffe"
   company: "HumanFactorSecurity"
-  title: "Social Engineer"
+  title: "Social Engineer & CEO"
   bio: "A lifelong social engineer and professional con artist, Jenny Radcliffe specialises in physical infiltrations and psychological elements of security.  She is the host of the current Best European Security Podcast - The Human Factor Security Podcast as well as TeissTalk and is a frequent guest on podcasts,
  expert on cons, scams and frauds on both traditional and social media.  She is a frequent keynote speaker and travels globally headlining 
 corporate events and conferences educating audiences about social engineering and security.
@@ -49,6 +49,20 @@ Microsoft Certified Trainer, ISO 27001 Lead Auditor, Professional Scrum Master I
     #- {name: "twitter", link: "https://twitter.com/cyber_anubis"}
     #- {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
 - 
+  id: 5
+  name: "Ahmed"
+  surname: "Shosha"
+  company: "Microsoft"
+  title: "Security Reseacher"
+  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  thumbnailUrl: Nidal2.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "NEW", title: "2022 Conference Speaker!"}
+  #social: 
+    #- {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    #- {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
+-
   id: 3
   name: "Rodolpho"
   surname: "Concurde"
@@ -80,21 +94,7 @@ Interested in Application and network penetration testing.  Technical blogger, t
     - {abbr: "NEW", title: "2022 Conference Speaker!"}
   social: 
     - {name: "twitter", link: "https://twitter.com/eslam3kll"}
-- 
-  id: 5
-  name: "Ahmed"
-  surname: "Shosha"
-  company: "Microsoft"
-  title: "Security Reseacher"
-  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
-  thumbnailUrl: Nidal2.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "NEW", title: "2022 Conference Speaker!"}
-  #social: 
-    #- {name: "twitter", link: "https://twitter.com/cyber_anubis"}
-    #- {name: "site", link: "https://cyber-anubis.github.io/aboutme/"}
-- 
+-  
   id: 6
   name: "Abdelrahman"
   surname: "Khater"
