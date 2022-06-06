@@ -218,7 +218,7 @@ For end, we gonna learn create from zero an exploit, to exploit a Buffer Overflo
   title: "Your game is my game. Reverse me if you can!"
   subtype: keynote
   speakers: [5]
-  language: en
+  language: ar
   description: "In 2021, the gaming industry generated $155 billion in revenue and by 2025, it is expected the industry will generate more than $260 billion in revenue. This makes it a lucrative target for cybercriminals.
 To protect their user and fair experience, game publishers and developers fight endlessly against cheats and use every trick to protect their games, clients, from tampering and reversing engineering.  It is a cat and mouse game.
 In this talk, we will explore the game cheating and anti-cheating techniques and tricks. How an attacker can get access to the game’s secrets and how security engineers fight and protect the game assets."
@@ -230,7 +230,7 @@ In this talk, we will explore the game cheating and anti-cheating techniques and
   title: "Breaking logic, Creating CVEs"
   #subtype: keynote
   speakers: [4]
-  language: en
+  language: ar
   description: "My talk is mainly for beginners who need to know more about the types of logic vulnerabilities and how to find and exploit these types of magic bugs. I’ll start by declaring the differences between logical and traditional bugs and why I’m looking for the logical ones first. 
 As we know, the logical bugs have a variety of types, and you can find and exploit them by using multiple techniques, all you need to do is to focus on multiple points, so I’ll try to create a creative mindset to understand the business of the target and how the bug will affect him to get the most benefit from it like chaining bugs to get the highest impact you can achieve. 
 Through the talk, I’ll get real-world scenarios of my logical findings to declare my words like Account takeover, Parameter tampering, Broken Access Control and more. Also, I’ll talk about 4 CVEs I assigned for the first time and declare how I managed to read internal bank documents, users’ transactions, companies deals, and more critical data by chaining and exploiting the vulnerable logic functions, parameters and endpoints.
@@ -252,7 +252,7 @@ Through the talk, I’ll get real-world scenarios of my logical findings to decl
   title: "The Next Generation of Malware Detection"
   #subtype: keynote
   speakers: [6,7]
-  language: en
+  language: ar
   description: "Detecting malware is a very crucial problem now in the world as many companies and 
 people lose their information and privacy through malicious software which infects
  them to exfiltrate and leak data which is then used to blackmail organizations or persons to pay money
@@ -276,7 +276,7 @@ SO we've focused our research on taking static detection into next level by usin
 Zero trust is a cybersecurity paradigm focused on resource protection and the premise that trust is never granted implicitly but must be continually evaluated; in this talk, we will explore the history of ZT, its fundamental concepts, the interpretation of the key industry leaders, and how you might want to start adopting it in your own environment."
   #subtype: keynote
   speakers: [10,26]
-  language: en
+  language: ar
   discription: ""
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
