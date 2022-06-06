@@ -144,7 +144,7 @@ In this talk, we will discuss & explain AI and how to integrate it with cyber se
   id: 016
   title: "Opening Words"
   #subtype: keynote
-  speakers: [29,30]
+  speakers: [12,30]
   language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -303,7 +303,7 @@ Zero trust is a cybersecurity paradigm focused on resource protection and the pr
   id: 029
   title: "Closing Words"
   #subtype: keynote
-  speakers: [29]
+  speakers: [29,30]
   language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
