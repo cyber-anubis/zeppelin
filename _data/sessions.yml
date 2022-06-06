@@ -277,7 +277,6 @@ Zero trust is a cybersecurity paradigm focused on resource protection and the pr
   #subtype: keynote
   speakers: [10,26]
   language: ar
-  discription: ""
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
@@ -287,6 +286,7 @@ Zero trust is a cybersecurity paradigm focused on resource protection and the pr
   #subtype: keynote
   speakers: [8,9,31]
   language: en
+  description: "This panel will explore the MITRE ATT&CK and Engage frameworks and how these two frameworks can be operationalized together within your organization. In the Art of War, Sun Tzu said “Know thyself, know thy enemy. A thousand battles, a thousand victories.“. Using MITRE Engage and MITRE ATT&CK, this panel will investigate how to combine cyber threat intelligence and threat modeling to inform and drive your use of adversary engagement. Along the way we will discuss real operations MITRE has conducted and reflect on where we succeeded and where we failed. We hope that listeners walk away with a better understanding of both ATT&CK and Engage and how to operationalize these frameworks within your organization."
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
