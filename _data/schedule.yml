@@ -23,28 +23,23 @@
     }
     - {
     	startTime: "14:20",
-    	endTime: "14:30",
+    	endTime: "14:40",
     	sessionIds: [307]
     }
     - {
-    	startTime: "14:30",
-    	endTime: "15:10",
+    	startTime: "14:40",
+    	endTime: "15:20",
     	sessionIds: [019]
     }
     - {
-    	startTime: "15:10",
-    	endTime: "15:50",
+    	startTime: "15:20",
+    	endTime: "16:00",
     	sessionIds: [020]
     }
     - {
-    	startTime: "15:50",
-    	endTime: "16:15",
+    	startTime: "16:00",
+    	endTime: "16:10",
     	sessionIds: [307]
-    }
-    - {
-    	startTime: "16:15",
-    	endTime: "16:35",
-    	sessionIds: [028]
     }
 - 
   date: "2022-06-25"
@@ -54,6 +49,11 @@
     #- {title: "Sponsors", color: "#03a9f4"}
     #- {title: "Community", color: "#03a9f4"}
   timeslots: 
+    - {
+    	startTime: "09:45",
+    	endTime: "10:00",
+    	sessionIds: [039]
+    }
     - {
     	startTime: "10:00",
     	endTime: "10:45",
@@ -81,21 +81,34 @@
     }
     - {
     	startTime: "12:35",
-    	endTime: "13:20",
+    	endTime: "13:35",
     	sessionIds: [025]
     }
     - {
-    	startTime: "13:20",
-    	endTime: "13:35",
+    	startTime: "13:35",
+    	endTime: "13:45",
     	sessionIds: [307]
     }
     - {
-    	startTime: "13:35",
-    	endTime: "14:50",
+    	startTime: "13:45",
+    	endTime: "15:00",
     	sessionIds: [026]
     }
     - {
-    	startTime: "14:50",
-    	endTime: "15:00",
+    	startTime: "15:00",
+    	endTime: "15:30",
     	sessionIds: [029]
     }
+
+
+1st day break = 20 min
+
+    9:45 = 10:00
+
+    12:35 = 13:35
+
+    Break = 10 min
+
+    1:45 = : 3:
+
+    closing = 30 min

@@ -330,4 +330,13 @@ Zero trust is a cybersecurity paradigm focused on resource protection and the pr
   service: true
   #description: "The best time to talk with speakers and attendees"
 -
+  id: 039
+  title: "Opening Words (Second Day)"
+  #subtype: keynote
+  speakers: [30]
+  language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/dxYBAAe1I3I"
+-
 
