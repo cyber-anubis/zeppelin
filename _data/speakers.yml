@@ -53,9 +53,9 @@ Microsoft Certified Trainer, ISO 27001 Lead Auditor, Professional Scrum Master I
   name: "Ahmed"
   surname: "Shosha"
   company: "Microsoft"
-  title: "Security Reseacher"
-  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
-  thumbnailUrl: Nidal2.jpg
+  title: "Sr. Security Software Engineer"
+  bio: "Ahmed is a senior security software engineer at Microsoft and adjunct professor at Nile university."
+  thumbnailUrl: shosha.jpg
   rockstar: true
   ribbon: 
     - {abbr: "NEW", title: "2022 Conference Speaker!"}
@@ -222,9 +222,9 @@ I am a founding board member for The InfoSec Hoppers, a Manchester-based informa
   id: 12
   name: "Nidal"
   surname: "Fikri"
-  company: "Hatching Triage"
-  title: "Malware Analyst"
-  bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
+  company: "BSides Cairo"
+  title: "Organizer"
+  #bio: "I’ve published multiple Malware Analysis reports at Malpedia. Ex-Intern at Trend Micro learning about its various products and the Cloud i.e. AWS. Learning how computers are designed & how they function is my ultimate hobby. I can't stop myself from stalking the internals & I love to REVERSE them. ACM problem solver, competitions player, public speaker & student activity leader."
   thumbnailUrl: Nidal2.jpg
   rockstar: false
   social: 
@@ -431,13 +431,8 @@ Having graduated from the Information Security Faculty of the National Research 
   id: 29
   name: "Amgad"
   surname: "Magdy"
-  company: "SnellSec"
-  title: "Lead"
-  bio: "This is Amgad (Amad) and I'm a cyber threat intelligence consultant, and beside my current role I'm MS.c student and academic researcher about Active Cyber Defence. 
-
-My first career was an editor and blogger for several technology magazines and websites in Middle East and North Africa region, and it's my key pass to enter cyber security industry by reviewing technologies and advising people; How to deal with technologies from cyber prospective. 
-
-My current research focuses on Active Cyber Defence, feel free to keep in touch!"
+  company: "BSides Cairo"
+  title: "Organizer"
   thumbnailUrl: amjad.jpg
   rockstar: false
   #ribbon:
@@ -450,9 +445,9 @@ My current research focuses on Active Cyber Defence, feel free to keep in touch!
   id: 30
   name: "Ramy"
   surname: "Sherif"
-  company: "Banque du Caire"
-  title: "Information Security Supervisor"
-  bio: "Experienced Information Security with a demonstrated history of working in the banking industry. Skilled in Firewalls, Management, Cryptography, Networking, and Incident Response."
+  company: "BSides Cairo"
+  title: "Organizer"
+  #bio: "Experienced Information Security with a demonstrated history of working in the banking industry. Skilled in Firewalls, Management, Cryptography, Networking, and Incident Response."
   thumbnailUrl: ramy.jpg
   rockstar: false
   #ribbon:
