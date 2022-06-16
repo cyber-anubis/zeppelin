@@ -133,7 +133,7 @@ subscribeInfo: "This year's event is totally FREE. Registration will open soon. 
 
 # Tickets Block
 ticketsTitle: "Tickets Registration"
-ticketsInfo: "ickets grant access to all conference sections."
+ticketsInfo: "Tickets grant access to all conference sections."
 #Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price.
 ticketsOffers:
  -
@@ -148,8 +148,8 @@ ticketsOffers:
   validFrom: "2022-06-18T10:00"
   validThrough: "2022-06-25T14:00"
  -
-  name: "Last Chance"
-  price: "XXX"
+  name: "Professionals"
+  price: "0.0"
   priceCurrency: "USD"
   ticketsNumber: "100"
   ribbon: "-100%"
@@ -160,7 +160,7 @@ ticketsOffers:
   validThrough: "2022-06-25T14:00"
  -
   name: "Student"
-  price: "XXX"
+  price: "0.0"
   priceCurrency: "USD"
   ticketsNumber: "50"
   ribbon: "-100%"
