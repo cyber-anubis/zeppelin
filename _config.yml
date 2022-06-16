@@ -148,7 +148,7 @@ ticketsOffers:
   validFrom: "2022-06-18T10:00"
   validThrough: "2022-06-25T14:00"
  -
-  name: "Professionals"
+  name: "Professional"
   price: "0.0"
   priceCurrency: "USD"
   ticketsNumber: "100"
