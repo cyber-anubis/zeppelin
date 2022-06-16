@@ -134,7 +134,7 @@ subscribeInfo: "This year's event is totally FREE. Registration will open soon. 
 # Tickets Block
 ticketsTitle: "Tickets Registration"
 ticketsInfo: "ickets grant access to all conference sections."
-Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price.
+#Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price.
 ticketsOffers:
  -
   name: "Academic"
