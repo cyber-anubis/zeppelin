@@ -140,7 +140,7 @@ ticketsOffers:
   name: "Academic"
   price: "0.0"
   priceCurrency: "USD"
-  ticketsNumber: "150"
+  ticketsNumber: "40"
   ribbon: "-100%"
   #buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Register Now"
@@ -158,17 +158,17 @@ ticketsOffers:
   ticketContentList: ["Intended for our industry professionals.", "Full acess for the two days."]
   validFrom: "2022-06-18T10:00"
   validThrough: "2022-06-25T14:00"
- -
-  name: "Student"
-  price: "0.0"
-  priceCurrency: "USD"
-  ticketsNumber: "50"
-  ribbon: "-100%"
-  #buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Register Now"
-  ticketContentList: ["Intended for our undergrad students.", "Full acess for the two days."]
-  validFrom: "2022-06-18T10:00"
-  validThrough: "2022-06-25T14:00"
+# -
+#  name: "Student"
+#  price: "0.0"
+#  priceCurrency: "USD"
+#  ticketsNumber: "150"
+#  ribbon: "-100%"
+#  #buyButtonLink: "http://dfua.ticketforevent.com/"
+#  buyButtonText: "Register Now"
+#  ticketContentList: ["Intended for our undergrad students.", "Full acess for the two days."]
+#  validFrom: "2022-06-18T10:00"
+#  validThrough: "2022-06-25T14:00"
 
 # Footer
 socialLinks:
