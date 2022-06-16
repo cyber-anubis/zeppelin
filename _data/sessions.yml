@@ -253,27 +253,14 @@ Through the talk, I’ll get real-world scenarios of my logical findings to decl
   #subtype: keynote
   speakers: [6,7]
   language: ar
-  description: "Detecting malware is a very crucial problem now in the world as many companies and 
-people lose their information and privacy through malicious software which infects
- them to exfiltrate and leak data which is then used to blackmail organizations or persons to pay money
- to avoid publishing their data on the internet. Hackers steal research or architecture of productions
- which makes companies or governments suffer from huge losses of money and effort.
- Detecting malicious files is categorized into two divisions ( detection by patterns and by behavior ). 
-For each method, there are pros and cons.
- There are cutting-edge approaches that provide rule-based patterns which humans should add manually with the abilities of their brains. 
-The major problem with detection by rule-based patterns that it's very tedious to 
-write rules like YARA for detecting many variants of a malicious family, 
-and auto-generation tools can result in false-positive also if we wrote 
-rules for each sample, we'd get a performance hit, 
-SO we've focused our research on taking static detection into next level by using machine learning and inspired by state-of-the-art approaches, and we've made a proof of concept on our methodology. All in all, our goal is to replace traditional rule-based patterns with new machine learning approaches and also inspire others to take malware detection to the next level."
+  description: "The major problem with detection by rule-based patterns that it’s very tedious to write rules like YARA for detecting many variants of a malicious family and auto generation tools can result false positives also if we wrote rules for each sample we’d get a performance hit, so we’ve focused our research to take static detection into the next level by using machine learning and inspired by state-of-the-art approaches and we’ve made a proof of concept for our methodology."
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/dxYBAAe1I3I"
 -
   id: 025
   title: "Zero Trust"
-  description: "Two decades ago, a loose affiliation of interested corporate CISOs started discussing the emerging threats of modern technologies in a hyper connected world, forming the “Jericho Forum”; they defined and promoted the concept of “de-perimeterisation” of information systems … which laid the foundations of what is currently known as “Zero Trust”.
-Zero trust is a cybersecurity paradigm focused on resource protection and the premise that trust is never granted implicitly but must be continually evaluated; in this talk, we will explore the history of ZT, its fundamental concepts, the interpretation of the key industry leaders, and how you might want to start adopting it in your own environment."
+  description: "Zero trust is a cybersecurity paradigm focused on resource protection and the premise that trust is never granted implicitly but must be continually evaluated; in this talk, we will explore the history of ZT, its fundamental concepts, the interpretation of the key industry leaders, and how you might want to start adopting it in your own environment."
   #subtype: keynote
   speakers: [10,26]
   language: ar
